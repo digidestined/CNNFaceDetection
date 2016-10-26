@@ -1,0 +1,1504 @@
+09-01 11:52 root         INFO     begin...
+09-01 11:52 root         INFO     testing flickr/3/image00035.jpg
+09-01 11:52 root         INFO     testing flickr/3/image00204.jpg
+09-01 11:53 root         INFO     testing flickr/3/image00404.jpg
+09-01 11:53 root         INFO     testing flickr/3/image00476.jpg
+09-01 11:53 root         INFO     testing flickr/3/image00623.jpg
+09-01 11:53 root         INFO     testing flickr/3/image00779.jpg
+09-01 11:53 root         INFO     testing flickr/3/image00971.jpg
+09-01 11:53 root         INFO     testing flickr/3/image01449.jpg
+09-01 11:53 root         INFO     testing flickr/3/image01631.jpg
+09-01 11:53 root         INFO     testing flickr/3/image01784.jpg
+09-01 11:53 root         INFO     testing flickr/3/image01892.jpg
+09-01 11:53 root         INFO     testing flickr/3/image02100.jpg
+09-01 11:53 root         INFO     testing flickr/3/image02290.jpg
+09-01 11:54 root         INFO     testing flickr/3/image02621.jpg
+09-01 11:54 root         INFO     testing flickr/3/image02884.jpg
+09-01 11:54 root         INFO     testing flickr/3/image03173.jpg
+09-01 11:54 root         INFO     testing flickr/3/image03465.jpg
+09-01 11:54 root         INFO     testing flickr/3/image03664.jpg
+09-01 11:54 root         INFO     testing flickr/3/image03894.jpg
+09-01 11:54 root         INFO     testing flickr/3/image04168.jpg
+09-01 11:54 root         INFO     testing flickr/3/image04324.jpg
+09-01 11:54 root         INFO     testing flickr/3/image04431.jpg
+09-01 11:55 root         INFO     testing flickr/3/image04647.jpg
+09-01 11:55 root         INFO     testing flickr/3/image04810.jpg
+09-01 11:55 root         INFO     testing flickr/3/image05006.jpg
+09-01 11:55 root         INFO     testing flickr/3/image05282.jpg
+09-01 11:55 root         INFO     testing flickr/3/image05561.jpg
+09-01 11:55 root         INFO     testing flickr/3/image05752.jpg
+09-01 11:55 root         INFO     testing flickr/3/image05995.jpg
+09-01 11:55 root         INFO     testing flickr/3/image06190.jpg
+09-01 11:55 root         INFO     testing flickr/3/image06454.jpg
+09-01 11:56 root         INFO     testing flickr/3/image02603.jpg
+09-01 11:56 root         INFO     testing flickr/3/image03174.jpg
+09-01 11:56 root         INFO     testing flickr/3/image03672.jpg
+09-01 11:56 root         INFO     testing flickr/3/image06032.jpg
+09-01 11:56 root         INFO     testing flickr/3/image06562.jpg
+09-01 11:56 root         INFO     testing flickr/3/image06749.jpg
+09-01 11:56 root         INFO     testing flickr/3/image06962.jpg
+09-01 11:56 root         INFO     testing flickr/3/image07106.jpg
+09-01 11:56 root         INFO     testing flickr/3/image07344.jpg
+09-01 11:56 root         INFO     testing flickr/3/image07565.jpg
+09-01 11:57 root         INFO     testing flickr/3/image07856.jpg
+09-01 11:57 root         INFO     testing flickr/3/image07998.jpg
+09-01 11:57 root         INFO     testing flickr/3/image08262.jpg
+09-01 11:57 root         INFO     testing flickr/3/image08511.jpg
+09-01 11:57 root         INFO     testing flickr/3/image08678.jpg
+09-01 11:57 root         INFO     testing flickr/3/image08895.jpg
+09-01 11:57 root         INFO     testing flickr/3/image09001.jpg
+09-01 11:57 root         INFO     testing flickr/3/image09179.jpg
+09-01 11:57 root         INFO     testing flickr/3/image09275.jpg
+09-01 11:58 root         INFO     testing flickr/3/image09384.jpg
+09-01 11:58 root         INFO     testing flickr/3/image09498.jpg
+09-01 11:58 root         INFO     testing flickr/3/image09741.jpg
+09-01 11:58 root         INFO     testing flickr/3/image09916.jpg
+09-01 11:58 root         INFO     testing flickr/3/image10099.jpg
+09-01 11:58 root         INFO     testing flickr/3/image10504.jpg
+09-01 11:58 root         INFO     testing flickr/3/image11144.jpg
+09-01 11:58 root         INFO     testing flickr/3/image11859.jpg
+09-01 11:58 root         INFO     testing flickr/3/image12338.jpg
+09-01 11:59 root         INFO     testing flickr/3/image11967.jpg
+09-01 11:59 root         INFO     testing flickr/3/image12780.jpg
+09-01 11:59 root         INFO     testing flickr/3/image13075.jpg
+09-01 11:59 root         INFO     testing flickr/3/image13321.jpg
+09-01 11:59 root         INFO     testing flickr/3/image13489.jpg
+09-01 11:59 root         INFO     testing flickr/3/image13740.jpg
+09-01 11:59 root         INFO     testing flickr/3/image14069.jpg
+09-01 11:59 root         INFO     testing flickr/3/image14263.jpg
+09-01 11:59 root         INFO     testing flickr/3/image14603.jpg
+09-01 11:59 root         INFO     testing flickr/3/image14747.jpg
+09-01 12:00 root         INFO     testing flickr/3/image14929.jpg
+09-01 12:00 root         INFO     testing flickr/3/image15177.jpg
+09-01 12:00 root         INFO     testing flickr/3/image15334.jpg
+09-01 12:00 root         INFO     testing flickr/3/image15591.jpg
+09-01 12:00 root         INFO     testing flickr/3/image15866.jpg
+09-01 12:00 root         INFO     testing flickr/3/image16059.jpg
+09-01 12:00 root         INFO     testing flickr/3/image16468.jpg
+09-01 12:00 root         INFO     testing flickr/3/image16649.jpg
+09-01 12:01 root         INFO     testing flickr/3/image16902.jpg
+09-01 12:01 root         INFO     testing flickr/3/image17075.jpg
+09-01 12:01 root         INFO     testing flickr/3/image17383.jpg
+09-01 12:01 root         INFO     testing flickr/3/image17981.jpg
+09-01 12:01 root         INFO     testing flickr/3/image18405.jpg
+09-01 12:01 root         INFO     testing flickr/3/image18970.jpg
+09-01 12:01 root         INFO     testing flickr/3/image19372.jpg
+09-01 12:01 root         INFO     testing flickr/3/image17846.jpg
+09-01 12:01 root         INFO     testing flickr/3/image18053.jpg
+09-01 12:01 root         INFO     testing flickr/3/image18320.jpg
+09-01 12:02 root         INFO     testing flickr/3/image18431.jpg
+09-01 12:02 root         INFO     testing flickr/3/image18649.jpg
+09-01 12:02 root         INFO     testing flickr/3/image19244.jpg
+09-01 12:02 root         INFO     testing flickr/3/image19588.jpg
+09-01 12:02 root         INFO     testing flickr/3/image19917.jpg
+09-01 12:02 root         INFO     testing flickr/3/image20116.jpg
+09-01 12:02 root         INFO     testing flickr/3/image20300.jpg
+09-01 12:02 root         INFO     testing flickr/3/image20466.jpg
+09-01 12:02 root         INFO     testing flickr/3/image20652.jpg
+09-01 12:03 root         INFO     testing flickr/3/image20763.jpg
+09-01 12:03 root         INFO     testing flickr/3/image20937.jpg
+09-01 12:03 root         INFO     testing flickr/3/image21222.jpg
+09-01 12:03 root         INFO     testing flickr/3/image21436.jpg
+09-01 12:03 root         INFO     testing flickr/3/image21684.jpg
+09-01 12:03 root         INFO     testing flickr/3/image21850.jpg
+09-01 12:03 root         INFO     testing flickr/3/image22032.jpg
+09-01 12:03 root         INFO     testing flickr/3/image22369.jpg
+09-01 12:03 root         INFO     testing flickr/3/image22576.jpg
+09-01 12:03 root         INFO     testing flickr/3/image22946.jpg
+09-01 12:04 root         INFO     testing flickr/3/image23335.jpg
+09-01 12:04 root         INFO     testing flickr/3/image24002.jpg
+09-01 12:04 root         INFO     testing flickr/3/image24452.jpg
+09-01 12:04 root         INFO     testing flickr/3/image24667.jpg
+09-01 12:04 root         INFO     testing flickr/3/image24897.jpg
+09-01 12:04 root         INFO     testing flickr/3/image25079.jpg
+09-01 12:04 root         INFO     testing flickr/3/image25291.jpg
+09-01 12:04 root         INFO     testing flickr/3/image25453.jpg
+09-01 12:04 root         INFO     testing flickr/3/image25704.jpg
+09-01 12:05 root         INFO     testing flickr/3/image25902.jpg
+09-01 12:05 root         INFO     testing flickr/3/image26069.jpg
+09-01 12:05 root         INFO     testing flickr/3/image26274.jpg
+09-01 12:05 root         INFO     testing flickr/3/image26408.jpg
+09-01 12:05 root         INFO     testing flickr/3/image26595.jpg
+09-01 12:05 root         INFO     testing flickr/3/image26790.jpg
+09-01 12:05 root         INFO     testing flickr/3/image26979.jpg
+09-01 12:05 root         INFO     testing flickr/3/image27129.jpg
+09-01 12:05 root         INFO     testing flickr/3/image27259.jpg
+09-01 12:05 root         INFO     testing flickr/3/image27461.jpg
+09-01 12:06 root         INFO     testing flickr/3/image27710.jpg
+09-01 12:06 root         INFO     testing flickr/3/image27925.jpg
+09-01 12:06 root         INFO     testing flickr/3/image28154.jpg
+09-01 12:06 root         INFO     testing flickr/3/image28332.jpg
+09-01 12:06 root         INFO     testing flickr/3/image28556.jpg
+09-01 12:06 root         INFO     testing flickr/3/image28726.jpg
+09-01 12:06 root         INFO     testing flickr/3/image28942.jpg
+09-01 12:06 root         INFO     testing flickr/3/image29122.jpg
+09-01 12:06 root         INFO     testing flickr/3/image29374.jpg
+09-01 12:07 root         INFO     testing flickr/3/image29620.jpg
+09-01 12:07 root         INFO     testing flickr/3/image29800.jpg
+09-01 12:07 root         INFO     testing flickr/3/image29935.jpg
+09-01 12:07 root         INFO     testing flickr/3/image30017.jpg
+09-01 12:07 root         INFO     testing flickr/3/image30200.jpg
+09-01 12:07 root         INFO     testing flickr/3/image30449.jpg
+09-01 12:07 root         INFO     testing flickr/3/image30655.jpg
+09-01 12:07 root         INFO     testing flickr/3/image30853.jpg
+09-01 12:07 root         INFO     testing flickr/3/image30999.jpg
+09-01 12:07 root         INFO     testing flickr/3/image31172.jpg
+09-01 12:07 root         INFO     testing flickr/3/image31311.jpg
+09-01 12:07 root         INFO     testing flickr/3/image31509.jpg
+09-01 12:08 root         INFO     testing flickr/3/image31745.jpg
+09-01 12:08 root         INFO     testing flickr/3/image31881.jpg
+09-01 12:08 root         INFO     testing flickr/3/image32067.jpg
+09-01 12:08 root         INFO     testing flickr/3/image32271.jpg
+09-01 12:08 root         INFO     testing flickr/3/image32450.jpg
+09-01 12:08 root         INFO     testing flickr/3/image32593.jpg
+09-01 12:08 root         INFO     testing flickr/3/image32766.jpg
+09-01 12:08 root         INFO     testing flickr/3/image33006.jpg
+09-01 12:08 root         INFO     testing flickr/3/image33226.jpg
+09-01 12:08 root         INFO     testing flickr/3/image33373.jpg
+09-01 12:09 root         INFO     testing flickr/3/image33604.jpg
+09-01 12:09 root         INFO     testing flickr/3/image33856.jpg
+09-01 12:09 root         INFO     testing flickr/3/image34050.jpg
+09-01 12:09 root         INFO     testing flickr/3/image34221.jpg
+09-01 12:09 root         INFO     testing flickr/3/image34334.jpg
+09-01 12:09 root         INFO     testing flickr/3/image34497.jpg
+09-01 12:09 root         INFO     testing flickr/3/image34754.jpg
+09-01 12:09 root         INFO     testing flickr/3/image35030.jpg
+09-01 12:09 root         INFO     testing flickr/3/image35252.jpg
+09-01 12:09 root         INFO     testing flickr/3/image35512.jpg
+09-01 12:09 root         INFO     testing flickr/3/image35710.jpg
+09-01 12:10 root         INFO     testing flickr/3/image35923.jpg
+09-01 12:10 root         INFO     testing flickr/3/image36063.jpg
+09-01 12:10 root         INFO     testing flickr/3/image36248.jpg
+09-01 12:10 root         INFO     testing flickr/3/image36477.jpg
+09-01 12:10 root         INFO     testing flickr/3/image36679.jpg
+09-01 12:10 root         INFO     testing flickr/3/image36848.jpg
+09-01 12:10 root         INFO     testing flickr/3/image37069.jpg
+09-01 12:10 root         INFO     testing flickr/3/image37263.jpg
+09-01 12:10 root         INFO     testing flickr/3/image37509.jpg
+09-01 12:10 root         INFO     testing flickr/3/image37806.jpg
+09-01 12:10 root         INFO     testing flickr/3/image38034.jpg
+09-01 12:11 root         INFO     testing flickr/3/image38373.jpg
+09-01 12:11 root         INFO     testing flickr/3/image38777.jpg
+09-01 12:11 root         INFO     testing flickr/3/image38981.jpg
+09-01 12:11 root         INFO     testing flickr/3/image39162.jpg
+09-01 12:11 root         INFO     testing flickr/3/image39367.jpg
+09-01 12:11 root         INFO     testing flickr/3/image39557.jpg
+09-01 12:11 root         INFO     testing flickr/3/image39685.jpg
+09-01 12:11 root         INFO     testing flickr/3/image39806.jpg
+09-01 12:11 root         INFO     testing flickr/3/image39927.jpg
+09-01 12:11 root         INFO     testing flickr/3/image40127.jpg
+09-01 12:11 root         INFO     testing flickr/3/image40316.jpg
+09-01 12:12 root         INFO     testing flickr/3/image40428.jpg
+09-01 12:12 root         INFO     testing flickr/3/image40500.jpg
+09-01 12:12 root         INFO     testing flickr/3/image40610.jpg
+09-01 12:12 root         INFO     testing flickr/3/image40711.jpg
+09-01 12:12 root         INFO     testing flickr/3/image40871.jpg
+09-01 12:12 root         INFO     testing flickr/3/image40978.jpg
+09-01 12:12 root         INFO     testing flickr/3/image41195.jpg
+09-01 12:12 root         INFO     testing flickr/3/image41322.jpg
+09-01 12:12 root         INFO     testing flickr/3/image41405.jpg
+09-01 12:13 root         INFO     testing flickr/3/image41520.jpg
+09-01 12:13 root         INFO     testing flickr/3/image41645.jpg
+09-01 12:13 root         INFO     testing flickr/3/image41754.jpg
+09-01 12:13 root         INFO     testing flickr/3/image41864.jpg
+09-01 12:13 root         INFO     testing flickr/3/image41995.jpg
+09-01 12:13 root         INFO     testing flickr/3/image42182.jpg
+09-01 12:13 root         INFO     testing flickr/3/image42285.jpg
+09-01 12:13 root         INFO     testing flickr/3/image42367.jpg
+09-01 12:13 root         INFO     testing flickr/3/image42497.jpg
+09-01 12:13 root         INFO     testing flickr/3/image42649.jpg
+09-01 12:14 root         INFO     testing flickr/3/image42759.jpg
+09-01 12:14 root         INFO     testing flickr/3/image42844.jpg
+09-01 12:14 root         INFO     testing flickr/3/image42944.jpg
+09-01 12:14 root         INFO     testing flickr/3/image43096.jpg
+09-01 12:14 root         INFO     testing flickr/3/image43300.jpg
+09-01 12:14 root         INFO     testing flickr/3/image43468.jpg
+09-01 12:14 root         INFO     testing flickr/3/image43554.jpg
+09-01 12:14 root         INFO     testing flickr/3/image43637.jpg
+09-01 12:14 root         INFO     testing flickr/3/image43743.jpg
+09-01 12:15 root         INFO     testing flickr/3/image43868.jpg
+09-01 12:15 root         INFO     testing flickr/3/image43949.jpg
+09-01 12:15 root         INFO     testing flickr/3/image44100.jpg
+09-01 12:15 root         INFO     testing flickr/3/image44223.jpg
+09-01 12:15 root         INFO     testing flickr/3/image44317.jpg
+09-01 12:15 root         INFO     testing flickr/3/image44480.jpg
+09-01 12:15 root         INFO     testing flickr/3/image44646.jpg
+09-01 12:15 root         INFO     testing flickr/3/image44810.jpg
+09-01 12:15 root         INFO     testing flickr/3/image44954.jpg
+09-01 12:15 root         INFO     testing flickr/3/image45082.jpg
+09-01 12:15 root         INFO     testing flickr/3/image45231.jpg
+09-01 12:15 root         INFO     testing flickr/3/image45359.jpg
+09-01 12:16 root         INFO     testing flickr/3/image45533.jpg
+09-01 12:16 root         INFO     testing flickr/3/image45661.jpg
+09-01 12:16 root         INFO     testing flickr/3/image45762.jpg
+09-01 12:16 root         INFO     testing flickr/3/image45869.jpg
+09-01 12:16 root         INFO     testing flickr/3/image45971.jpg
+09-01 12:16 root         INFO     testing flickr/3/image46143.jpg
+09-01 12:16 root         INFO     testing flickr/3/image46306.jpg
+09-01 12:16 root         INFO     testing flickr/3/image46510.jpg
+09-01 12:17 root         INFO     testing flickr/3/image46651.jpg
+09-01 12:17 root         INFO     testing flickr/3/image46819.jpg
+09-01 12:17 root         INFO     testing flickr/3/image46934.jpg
+09-01 12:17 root         INFO     testing flickr/3/image47077.jpg
+09-01 12:17 root         INFO     testing flickr/3/image47151.jpg
+09-01 12:17 root         INFO     testing flickr/3/image47281.jpg
+09-01 12:17 root         INFO     testing flickr/3/image47452.jpg
+09-01 12:17 root         INFO     testing flickr/3/image47608.jpg
+09-01 12:17 root         INFO     testing flickr/3/image47745.jpg
+09-01 12:17 root         INFO     testing flickr/3/image47902.jpg
+09-01 12:18 root         INFO     testing flickr/3/image48033.jpg
+09-01 12:18 root         INFO     testing flickr/3/image48186.jpg
+09-01 12:18 root         INFO     testing flickr/3/image48427.jpg
+09-01 12:18 root         INFO     testing flickr/3/image48671.jpg
+09-01 12:18 root         INFO     testing flickr/3/image48897.jpg
+09-01 12:18 root         INFO     testing flickr/3/image49100.jpg
+09-01 12:18 root         INFO     testing flickr/3/image49349.jpg
+09-01 12:18 root         INFO     testing flickr/3/image49548.jpg
+09-01 12:18 root         INFO     testing flickr/3/image49640.jpg
+09-01 12:18 root         INFO     testing flickr/3/image49713.jpg
+09-01 12:19 root         INFO     testing flickr/3/image49757.jpg
+09-01 12:19 root         INFO     testing flickr/3/image49799.jpg
+09-01 12:19 root         INFO     testing flickr/3/image49892.jpg
+09-01 12:19 root         INFO     testing flickr/3/image49995.jpg
+09-01 12:19 root         INFO     testing flickr/3/image50072.jpg
+09-01 12:19 root         INFO     testing flickr/3/image50179.jpg
+09-01 12:19 root         INFO     testing flickr/3/image50267.jpg
+09-01 12:19 root         INFO     testing flickr/3/image50414.jpg
+09-01 12:19 root         INFO     testing flickr/3/image50614.jpg
+09-01 12:19 root         INFO     testing flickr/3/image50827.jpg
+09-01 12:19 root         INFO     testing flickr/3/image51067.jpg
+09-01 12:20 root         INFO     testing flickr/3/image51194.jpg
+09-01 12:20 root         INFO     testing flickr/3/image51297.jpg
+09-01 12:20 root         INFO     testing flickr/3/image51546.jpg
+09-01 12:20 root         INFO     testing flickr/3/image51809.jpg
+09-01 12:20 root         INFO     testing flickr/3/image51971.jpg
+09-01 12:20 root         INFO     testing flickr/3/image52121.jpg
+09-01 12:20 root         INFO     testing flickr/3/image52264.jpg
+09-01 12:20 root         INFO     testing flickr/3/image52450.jpg
+09-01 12:21 root         INFO     testing flickr/3/image52607.jpg
+09-01 12:21 root         INFO     testing flickr/3/image52742.jpg
+09-01 12:21 root         INFO     testing flickr/3/image52911.jpg
+09-01 12:21 root         INFO     testing flickr/3/image53051.jpg
+09-01 12:21 root         INFO     testing flickr/3/image53232.jpg
+09-01 12:21 root         INFO     testing flickr/3/image53419.jpg
+09-01 12:21 root         INFO     testing flickr/3/image53592.jpg
+09-01 12:21 root         INFO     testing flickr/3/image53787.jpg
+09-01 12:21 root         INFO     testing flickr/3/image53937.jpg
+09-01 12:22 root         INFO     testing flickr/3/image54095.jpg
+09-01 12:22 root         INFO     testing flickr/3/image54222.jpg
+09-01 12:22 root         INFO     testing flickr/3/image54360.jpg
+09-01 12:22 root         INFO     testing flickr/3/image54533.jpg
+09-01 12:22 root         INFO     testing flickr/3/image54700.jpg
+09-01 12:22 root         INFO     testing flickr/3/image54914.jpg
+09-01 12:22 root         INFO     testing flickr/3/image55115.jpg
+09-01 12:22 root         INFO     testing flickr/3/image55270.jpg
+09-01 12:23 root         INFO     testing flickr/3/image55439.jpg
+09-01 12:23 root         INFO     testing flickr/3/image55523.jpg
+09-01 12:23 root         INFO     testing flickr/3/image55664.jpg
+09-01 12:23 root         INFO     testing flickr/3/image55809.jpg
+09-01 12:23 root         INFO     testing flickr/3/image56055.jpg
+09-01 12:23 root         INFO     testing flickr/3/image56263.jpg
+09-01 12:23 root         INFO     testing flickr/3/image56458.jpg
+09-01 12:23 root         INFO     testing flickr/3/image56708.jpg
+09-01 12:23 root         INFO     testing flickr/3/image56915.jpg
+09-01 12:24 root         INFO     testing flickr/3/image57061.jpg
+09-01 12:24 root         INFO     testing flickr/3/image57225.jpg
+09-01 12:24 root         INFO     testing flickr/3/image57352.jpg
+09-01 12:24 root         INFO     testing flickr/3/image57468.jpg
+09-01 12:24 root         INFO     testing flickr/3/image57636.jpg
+09-01 12:24 root         INFO     testing flickr/3/image57773.jpg
+09-01 12:24 root         INFO     testing flickr/3/image57955.jpg
+09-01 12:24 root         INFO     testing flickr/3/image58067.jpg
+09-01 12:25 root         INFO     testing flickr/3/image58182.jpg
+09-01 12:25 root         INFO     testing flickr/3/image58282.jpg
+09-01 12:25 root         INFO     testing flickr/3/image58432.jpg
+09-01 12:25 root         INFO     testing flickr/3/image58634.jpg
+09-01 12:25 root         INFO     testing flickr/3/image58746.jpg
+09-01 12:25 root         INFO     testing flickr/3/image58866.jpg
+09-01 12:25 root         INFO     testing flickr/3/image58956.jpg
+09-01 12:25 root         INFO     testing flickr/3/image59066.jpg
+09-01 12:25 root         INFO     testing flickr/3/image59227.jpg
+09-01 12:26 root         INFO     testing flickr/3/image59423.jpg
+09-01 12:26 root         INFO     testing flickr/3/image59580.jpg
+09-01 12:26 root         INFO     testing flickr/3/image59652.jpg
+09-01 12:26 root         INFO     testing flickr/3/image59754.jpg
+09-01 12:26 root         INFO     testing flickr/3/image59874.jpg
+09-01 12:26 root         INFO     testing flickr/3/image60097.jpg
+09-01 12:26 root         INFO     testing flickr/3/image60249.jpg
+09-01 12:26 root         INFO     testing flickr/3/image60443.jpg
+09-01 12:26 root         INFO     testing flickr/3/image60524.jpg
+09-01 12:26 root         INFO     testing flickr/3/image60549.jpg
+09-01 12:27 root         INFO     testing flickr/3/image60569.jpg
+09-01 12:27 root         INFO     testing flickr/3/image60584.jpg
+09-01 12:27 root         INFO     testing flickr/3/image60600.jpg
+09-01 12:27 root         INFO     testing flickr/3/image60621.jpg
+09-01 12:27 root         INFO     testing flickr/3/image60634.jpg
+09-01 12:27 root         INFO     testing flickr/3/image60647.jpg
+09-01 12:27 root         INFO     testing flickr/3/image60661.jpg
+09-01 12:28 root         INFO     testing flickr/3/image60686.jpg
+09-01 12:28 root         INFO     testing flickr/3/image60707.jpg
+09-01 12:28 root         INFO     testing flickr/3/image60735.jpg
+09-01 12:28 root         INFO     testing flickr/3/image60761.jpg
+09-01 12:28 root         INFO     testing flickr/3/image60777.jpg
+09-01 12:28 root         INFO     testing flickr/3/image60777.jpg
+09-01 12:28 root         INFO     testing flickr/3/image60784.jpg
+09-01 12:28 root         INFO     testing flickr/3/image60812.jpg
+09-01 12:29 root         INFO     testing flickr/3/image60822.jpg
+09-01 12:29 root         INFO     testing flickr/3/image60830.jpg
+09-01 12:29 root         INFO     testing flickr/3/image60838.jpg
+09-01 12:29 root         INFO     testing flickr/3/image60859.jpg
+09-01 12:29 root         INFO     testing flickr/3/image60873.jpg
+09-01 12:29 root         INFO     testing flickr/3/image60886.jpg
+09-01 12:29 root         INFO     testing flickr/3/image60903.jpg
+09-01 12:29 root         INFO     testing flickr/3/image60914.jpg
+09-01 12:30 root         INFO     testing flickr/3/image60942.jpg
+09-01 12:30 root         INFO     testing flickr/3/image60946.jpg
+09-01 12:30 root         INFO     testing flickr/3/image60952.jpg
+09-01 12:30 root         INFO     testing flickr/3/image60960.jpg
+09-01 12:30 root         INFO     testing flickr/3/image61021.jpg
+09-01 12:30 root         INFO     testing flickr/0/image70337.png
+09-01 12:30 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/0/image70337.png does not exist
+09-01 12:30 root         INFO     testing flickr/0/image00058.jpg
+09-01 12:30 root         INFO     testing flickr/2/image00108.jpg
+09-01 12:30 root         INFO     testing flickr/2/image00211.jpg
+09-01 12:30 root         INFO     testing flickr/2/image69904.jpg
+09-01 12:30 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/2/image69904.jpg does not exist
+09-01 12:30 root         INFO     testing flickr/2/image00613.jpg
+09-01 12:31 root         INFO     testing flickr/2/image00907.jpg
+09-01 12:31 root         INFO     testing flickr/2/image01207.jpg
+09-01 12:31 root         INFO     testing flickr/2/image01513.jpg
+09-01 12:31 root         INFO     testing flickr/2/image01662.jpg
+09-01 12:31 root         INFO     testing flickr/2/image01790.jpg
+09-01 12:31 root         INFO     testing flickr/2/image01952.jpg
+09-01 12:31 root         INFO     testing flickr/2/image02124.jpg
+09-01 12:31 root         INFO     testing flickr/2/image02277.jpg
+09-01 12:31 root         INFO     testing flickr/2/image02456.jpg
+09-01 12:31 root         INFO     testing flickr/2/image02647.jpg
+09-01 12:32 root         INFO     testing flickr/2/image02760.jpg
+09-01 12:32 root         INFO     testing flickr/2/image03055.jpg
+09-01 12:32 root         INFO     testing flickr/2/image03258.jpg
+09-01 12:32 root         INFO     testing flickr/2/image03590.jpg
+09-01 12:32 root         INFO     testing flickr/2/image03870.jpg
+09-01 12:32 root         INFO     testing flickr/2/image04019.jpg
+09-01 12:32 root         INFO     testing flickr/2/image04234.jpg
+09-01 12:32 root         INFO     testing flickr/2/image04414.jpg
+09-01 12:32 root         INFO     testing flickr/2/image04638.jpg
+09-01 12:33 root         INFO     testing flickr/2/image04914.jpg
+09-01 12:33 root         INFO     testing flickr/2/image05135.jpg
+09-01 12:33 root         INFO     testing flickr/2/image05288.jpg
+09-01 12:33 root         INFO     testing flickr/2/image05530.jpg
+09-01 12:33 root         INFO     testing flickr/2/image05755.jpg
+09-01 12:33 root         INFO     testing flickr/2/image05979.jpg
+09-01 12:33 root         INFO     testing flickr/2/image06285.jpg
+09-01 12:33 root         INFO     testing flickr/2/image06506.jpg
+09-01 12:33 root         INFO     testing flickr/2/image06657.jpg
+09-01 12:33 root         INFO     testing flickr/2/image06842.jpg
+09-01 12:33 root         INFO     testing flickr/2/image07006.jpg
+09-01 12:34 root         INFO     testing flickr/2/image07210.jpg
+09-01 12:34 root         INFO     testing flickr/2/image07613.jpg
+09-01 12:34 root         INFO     testing flickr/2/image07743.jpg
+09-01 12:34 root         INFO     testing flickr/2/image07915.jpg
+09-01 12:34 root         INFO     testing flickr/2/image08121.jpg
+09-01 12:34 root         INFO     testing flickr/2/image08329.jpg
+09-01 12:34 root         INFO     testing flickr/2/image08558.jpg
+09-01 12:34 root         INFO     testing flickr/2/image08632.jpg
+09-01 12:35 root         INFO     testing flickr/2/image08722.jpg
+09-01 12:35 root         INFO     testing flickr/2/image08829.jpg
+09-01 12:35 root         INFO     testing flickr/2/image08935.jpg
+09-01 12:35 root         INFO     testing flickr/2/image09050.jpg
+09-01 12:35 root         INFO     testing flickr/2/image09135.jpg
+09-01 12:35 root         INFO     testing flickr/2/image09241.jpg
+09-01 12:35 root         INFO     testing flickr/2/image09338.jpg
+09-01 12:35 root         INFO     testing flickr/2/image09437.jpg
+09-01 12:35 root         INFO     testing flickr/2/image09598.jpg
+09-01 12:35 root         INFO     testing flickr/2/image09851.jpg
+09-01 12:35 root         INFO     testing flickr/2/image10032.jpg
+09-01 12:35 root         INFO     testing flickr/2/image10163.jpg
+09-01 12:36 root         INFO     testing flickr/2/image10314.jpg
+09-01 12:36 root         INFO     testing flickr/2/image10549.jpg
+09-01 12:36 root         INFO     testing flickr/2/image10838.jpg
+09-01 12:36 root         INFO     testing flickr/2/image11050.jpg
+09-01 12:36 root         INFO     testing flickr/2/image11310.jpg
+09-01 12:36 root         INFO     testing flickr/2/image11542.jpg
+09-01 12:36 root         INFO     testing flickr/2/image11761.jpg
+09-01 12:36 root         INFO     testing flickr/2/image11933.jpg
+09-01 12:36 root         INFO     testing flickr/2/image12062.jpg
+09-01 12:37 root         INFO     testing flickr/2/image12280.jpg
+09-01 12:37 root         INFO     testing flickr/2/image12560.jpg
+09-01 12:37 root         INFO     testing flickr/2/image12687.jpg
+09-01 12:37 root         INFO     testing flickr/2/image12863.jpg
+09-01 12:37 root         INFO     testing flickr/2/image13015.jpg
+09-01 12:37 root         INFO     testing flickr/2/image13194.jpg
+09-01 12:37 root         INFO     testing flickr/2/image13296.jpg
+09-01 12:37 root         INFO     testing flickr/2/image13397.jpg
+09-01 12:37 root         INFO     testing flickr/2/image13578.jpg
+09-01 12:38 root         INFO     testing flickr/2/image13684.jpg
+09-01 12:38 root         INFO     testing flickr/2/image13865.jpg
+09-01 12:38 root         INFO     testing flickr/2/image14018.jpg
+09-01 12:38 root         INFO     testing flickr/2/image14128.jpg
+09-01 12:38 root         INFO     testing flickr/2/image14239.jpg
+09-01 12:38 root         INFO     testing flickr/2/image14366.jpg
+09-01 12:38 root         INFO     testing flickr/2/image14451.jpg
+09-01 12:38 root         INFO     testing flickr/2/image14523.jpg
+09-01 12:38 root         INFO     testing flickr/2/image14638.jpg
+09-01 12:39 root         INFO     testing flickr/2/image14741.jpg
+09-01 12:39 root         INFO     testing flickr/2/image14832.jpg
+09-01 12:39 root         INFO     testing flickr/2/image14945.jpg
+09-01 12:39 root         INFO     testing flickr/2/image15092.jpg
+09-01 12:39 root         INFO     testing flickr/2/image15190.jpg
+09-01 12:39 root         INFO     testing flickr/2/image15296.jpg
+09-01 12:39 root         INFO     testing flickr/2/image15405.jpg
+09-01 12:39 root         INFO     testing flickr/2/image15500.jpg
+09-01 12:40 root         INFO     testing flickr/2/image15588.jpg
+09-01 12:40 root         INFO     testing flickr/2/image15653.jpg
+09-01 12:40 root         INFO     testing flickr/2/image15801.jpg
+09-01 12:40 root         INFO     testing flickr/2/image15875.jpg
+09-01 12:40 root         INFO     testing flickr/2/image15987.jpg
+09-01 12:40 root         INFO     testing flickr/2/image16090.jpg
+09-01 12:40 root         INFO     testing flickr/2/image16149.jpg
+09-01 12:40 root         INFO     testing flickr/2/image16234.jpg
+09-01 12:40 root         INFO     testing flickr/2/image16341.jpg
+09-01 12:41 root         INFO     testing flickr/2/image16442.jpg
+09-01 12:41 root         INFO     testing flickr/2/image16529.jpg
+09-01 12:41 root         INFO     testing flickr/2/image16634.jpg
+09-01 12:41 root         INFO     testing flickr/2/image16729.jpg
+09-01 12:41 root         INFO     testing flickr/2/image16832.jpg
+09-01 12:41 root         INFO     testing flickr/2/image16951.jpg
+09-01 12:41 root         INFO     testing flickr/2/image17098.jpg
+09-01 12:41 root         INFO     testing flickr/2/image17230.jpg
+09-01 12:41 root         INFO     testing flickr/2/image17324.jpg
+09-01 12:41 root         INFO     testing flickr/2/image17410.jpg
+09-01 12:42 root         INFO     testing flickr/2/image17491.jpg
+09-01 12:42 root         INFO     testing flickr/2/image17600.jpg
+09-01 12:42 root         INFO     testing flickr/2/image17664.jpg
+09-01 12:42 root         INFO     testing flickr/2/image17799.jpg
+09-01 12:42 root         INFO     testing flickr/2/image17938.jpg
+09-01 12:42 root         INFO     testing flickr/2/image18080.jpg
+09-01 12:42 root         INFO     testing flickr/2/image18215.jpg
+09-01 12:42 root         INFO     testing flickr/2/image18326.jpg
+09-01 12:43 root         INFO     testing flickr/2/image18427.jpg
+09-01 12:43 root         INFO     testing flickr/2/image18559.jpg
+09-01 12:43 root         INFO     testing flickr/2/image18718.jpg
+09-01 12:43 root         INFO     testing flickr/2/image18964.jpg
+09-01 12:43 root         INFO     testing flickr/2/image19254.jpg
+09-01 12:43 root         INFO     testing flickr/2/image19495.jpg
+09-01 12:43 root         INFO     testing flickr/2/image19798.jpg
+09-01 12:43 root         INFO     testing flickr/2/image20065.jpg
+09-01 12:43 root         INFO     testing flickr/2/image20361.jpg
+09-01 12:43 root         INFO     testing flickr/2/image20540.jpg
+09-01 12:44 root         INFO     testing flickr/2/image20764.jpg
+09-01 12:44 root         INFO     testing flickr/2/image21039.jpg
+09-01 12:44 root         INFO     testing flickr/2/image21227.jpg
+09-01 12:44 root         INFO     testing flickr/2/image21510.jpg
+09-01 12:44 root         INFO     testing flickr/2/image21817.jpg
+09-01 12:44 root         INFO     testing flickr/2/image22039.jpg
+09-01 12:44 root         INFO     testing flickr/2/image22255.jpg
+09-01 12:44 root         INFO     testing flickr/2/image22447.jpg
+09-01 12:44 root         INFO     testing flickr/2/image22772.jpg
+09-01 12:45 root         INFO     testing flickr/2/image23061.jpg
+09-01 12:45 root         INFO     testing flickr/3/image23318.jpg
+09-01 12:45 root         INFO     testing flickr/2/image23533.jpg
+09-01 12:45 root         INFO     testing flickr/2/image23734.jpg
+09-01 12:45 root         INFO     testing flickr/2/image24026.jpg
+09-01 12:45 root         INFO     testing flickr/2/image24163.jpg
+09-01 12:45 root         INFO     testing flickr/2/image24338.jpg
+09-01 12:45 root         INFO     testing flickr/2/image24572.jpg
+09-01 12:45 root         INFO     testing flickr/2/image24749.jpg
+09-01 12:46 root         INFO     testing flickr/2/image25123.jpg
+09-01 12:46 root         INFO     testing flickr/2/image25442.jpg
+09-01 12:46 root         INFO     testing flickr/2/image25656.jpg
+09-01 12:46 root         INFO     testing flickr/2/image25840.jpg
+09-01 12:46 root         INFO     testing flickr/3/image26031.jpg
+09-01 12:46 root         INFO     testing flickr/2/image26260.jpg
+09-01 12:46 root         INFO     testing flickr/2/image26419.jpg
+09-01 12:46 root         INFO     testing flickr/2/image26656.jpg
+09-01 12:46 root         INFO     testing flickr/2/image26858.jpg
+09-01 12:47 root         INFO     testing flickr/2/image27035.jpg
+09-01 12:47 root         INFO     testing flickr/2/image27267.jpg
+09-01 12:47 root         INFO     testing flickr/2/image27498.jpg
+09-01 12:47 root         INFO     testing flickr/2/image27750.jpg
+09-01 12:47 root         INFO     testing flickr/2/image27968.jpg
+09-01 12:47 root         INFO     testing flickr/2/image28162.jpg
+09-01 12:47 root         INFO     testing flickr/2/image28276.jpg
+09-01 12:47 root         INFO     testing flickr/2/image28526.jpg
+09-01 12:47 root         INFO     testing flickr/2/image28716.jpg
+09-01 12:48 root         INFO     testing flickr/2/image28945.jpg
+09-01 12:48 root         INFO     testing flickr/2/image29133.jpg
+09-01 12:48 root         INFO     testing flickr/2/image29386.jpg
+09-01 12:48 root         INFO     testing flickr/2/image29625.jpg
+09-01 12:48 root         INFO     testing flickr/2/image29900.jpg
+09-01 12:48 root         INFO     testing flickr/2/image30138.jpg
+09-01 12:48 root         INFO     testing flickr/2/image30364.jpg
+09-01 12:48 root         INFO     testing flickr/2/image30505.jpg
+09-01 12:48 root         INFO     testing flickr/2/image30664.jpg
+09-01 12:49 root         INFO     testing flickr/2/image30896.jpg
+09-01 12:49 root         INFO     testing flickr/2/image31129.jpg
+09-01 12:49 root         INFO     testing flickr/2/image31326.jpg
+09-01 12:49 root         INFO     testing flickr/2/image31453.jpg
+09-01 12:49 root         INFO     testing flickr/2/image31593.jpg
+09-01 12:49 root         INFO     testing flickr/2/image31807.jpg
+09-01 12:49 root         INFO     testing flickr/2/image32012.jpg
+09-01 12:49 root         INFO     testing flickr/2/image32261.jpg
+09-01 12:50 root         INFO     testing flickr/2/image32515.jpg
+09-01 12:50 root         INFO     testing flickr/2/image32725.jpg
+09-01 12:50 root         INFO     testing flickr/2/image32965.jpg
+09-01 12:50 root         INFO     testing flickr/2/image33114.jpg
+09-01 12:50 root         INFO     testing flickr/2/image33366.jpg
+09-01 12:50 root         INFO     testing flickr/2/image33534.jpg
+09-01 12:50 root         INFO     testing flickr/2/image33776.jpg
+09-01 12:50 root         INFO     testing flickr/2/image34080.jpg
+09-01 12:50 root         INFO     testing flickr/2/image34269.jpg
+09-01 12:50 root         INFO     testing flickr/2/image34590.jpg
+09-01 12:51 root         INFO     testing flickr/2/image34791.jpg
+09-01 12:51 root         INFO     testing flickr/2/image35009.jpg
+09-01 12:51 root         INFO     testing flickr/2/image35276.jpg
+09-01 12:51 root         INFO     testing flickr/2/image35491.jpg
+09-01 12:51 root         INFO     testing flickr/2/image35691.jpg
+09-01 12:51 root         INFO     testing flickr/2/image35880.jpg
+09-01 12:51 root         INFO     testing flickr/2/image36057.jpg
+09-01 12:51 root         INFO     testing flickr/2/image36235.jpg
+09-01 12:51 root         INFO     testing flickr/2/image36404.jpg
+09-01 12:51 root         INFO     testing flickr/2/image36653.jpg
+09-01 12:51 root         INFO     testing flickr/2/image36863.jpg
+09-01 12:51 root         INFO     testing flickr/2/image37165.jpg
+09-01 12:52 root         INFO     testing flickr/2/image37332.jpg
+09-01 12:52 root         INFO     testing flickr/2/image37635.jpg
+09-01 12:52 root         INFO     testing flickr/2/image37948.jpg
+09-01 12:52 root         INFO     testing flickr/2/image38404.jpg
+09-01 12:52 root         INFO     testing flickr/2/image38632.jpg
+09-01 12:52 root         INFO     testing flickr/2/image38859.jpg
+09-01 12:52 root         INFO     testing flickr/2/image39060.jpg
+09-01 12:52 root         INFO     testing flickr/2/image39299.jpg
+09-01 12:52 root         INFO     testing flickr/2/image39461.jpg
+09-01 12:52 root         INFO     testing flickr/2/image39647.jpg
+09-01 12:53 root         INFO     testing flickr/2/image39880.jpg
+09-01 12:53 root         INFO     testing flickr/2/image40094.jpg
+09-01 12:53 root         INFO     testing flickr/2/image40321.jpg
+09-01 12:53 root         INFO     testing flickr/2/image40492.jpg
+09-01 12:53 root         INFO     testing flickr/2/image40682.jpg
+09-01 12:53 root         INFO     testing flickr/2/image40820.jpg
+09-01 12:53 root         INFO     testing flickr/2/image41010.jpg
+09-01 12:53 root         INFO     testing flickr/2/image41160.jpg
+09-01 12:53 root         INFO     testing flickr/2/image41344.jpg
+09-01 12:53 root         INFO     testing flickr/2/image41499.jpg
+09-01 12:53 root         INFO     testing flickr/2/image41735.jpg
+09-01 12:54 root         INFO     testing flickr/2/image41811.jpg
+09-01 12:54 root         INFO     testing flickr/2/image41889.jpg
+09-01 12:54 root         INFO     testing flickr/2/image42072.jpg
+09-01 12:54 root         INFO     testing flickr/2/image42195.jpg
+09-01 12:54 root         INFO     testing flickr/2/image42401.jpg
+09-01 12:54 root         INFO     testing flickr/2/image42585.jpg
+09-01 12:54 root         INFO     testing flickr/2/image42758.jpg
+09-01 12:54 root         INFO     testing flickr/2/image43014.jpg
+09-01 12:54 root         INFO     testing flickr/2/image43147.jpg
+09-01 12:54 root         INFO     testing flickr/2/image43281.jpg
+09-01 12:54 root         INFO     testing flickr/2/image43390.jpg
+09-01 12:55 root         INFO     testing flickr/2/image43471.jpg
+09-01 12:55 root         INFO     testing flickr/2/image43652.jpg
+09-01 12:55 root         INFO     testing flickr/2/image43773.jpg
+09-01 12:55 root         INFO     testing flickr/2/image43937.jpg
+09-01 12:55 root         INFO     testing flickr/2/image44198.jpg
+09-01 12:55 root         INFO     testing flickr/2/image44419.jpg
+09-01 12:55 root         INFO     testing flickr/2/image44607.jpg
+09-01 12:55 root         INFO     testing flickr/2/image44732.jpg
+09-01 12:55 root         INFO     testing flickr/2/image44868.jpg
+09-01 12:55 root         INFO     testing flickr/2/image45013.jpg
+09-01 12:55 root         INFO     testing flickr/2/image45161.jpg
+09-01 12:56 root         INFO     testing flickr/2/image45336.jpg
+09-01 12:56 root         INFO     testing flickr/2/image45445.jpg
+09-01 12:56 root         INFO     testing flickr/2/image45568.jpg
+09-01 12:56 root         INFO     testing flickr/2/image45672.jpg
+09-01 12:56 root         INFO     testing flickr/2/image45786.jpg
+09-01 12:56 root         INFO     testing flickr/2/image45910.jpg
+09-01 12:56 root         INFO     testing flickr/2/image46122.jpg
+09-01 12:56 root         INFO     testing flickr/2/image46274.jpg
+09-01 12:56 root         INFO     testing flickr/2/image46426.jpg
+09-01 12:57 root         INFO     testing flickr/2/image46550.jpg
+09-01 12:57 root         INFO     testing flickr/2/image46712.jpg
+09-01 12:57 root         INFO     testing flickr/2/image46911.jpg
+09-01 12:57 root         INFO     testing flickr/2/image47060.jpg
+09-01 12:57 root         INFO     testing flickr/2/image47194.jpg
+09-01 12:57 root         INFO     testing flickr/2/image47325.jpg
+09-01 12:57 root         INFO     testing flickr/2/image47430.jpg
+09-01 12:57 root         INFO     testing flickr/2/image47565.jpg
+09-01 12:57 root         INFO     testing flickr/2/image47676.jpg
+09-01 12:57 root         INFO     testing flickr/2/image47740.jpg
+09-01 12:58 root         INFO     testing flickr/2/image47823.jpg
+09-01 12:58 root         INFO     testing flickr/2/image47964.jpg
+09-01 12:58 root         INFO     testing flickr/2/image48094.jpg
+09-01 12:58 root         INFO     testing flickr/2/image48225.jpg
+09-01 12:58 root         INFO     testing flickr/2/image48406.jpg
+09-01 12:58 root         INFO     testing flickr/2/image48936.jpg
+09-01 12:58 root         INFO     testing flickr/2/image49187.jpg
+09-01 12:58 root         INFO     testing flickr/2/image49515.jpg
+09-01 12:58 root         INFO     testing flickr/2/image49595.jpg
+09-01 12:58 root         INFO     testing flickr/2/image49653.jpg
+09-01 12:59 root         INFO     testing flickr/2/image49707.jpg
+09-01 12:59 root         INFO     testing flickr/2/image49761.jpg
+09-01 12:59 root         INFO     testing flickr/2/image49820.jpg
+09-01 12:59 root         INFO     testing flickr/2/image49831.jpg
+09-01 12:59 root         INFO     testing flickr/2/image49904.jpg
+09-01 12:59 root         INFO     testing flickr/2/image49974.jpg
+09-01 12:59 root         INFO     testing flickr/3/image50084.jpg
+09-01 12:59 root         INFO     testing flickr/2/image50187.jpg
+09-01 12:59 root         INFO     testing flickr/2/image50245.jpg
+09-01 12:59 root         INFO     testing flickr/2/image50346.jpg
+09-01 13:00 root         INFO     testing flickr/2/image50600.jpg
+09-01 13:00 root         INFO     testing flickr/2/image50854.jpg
+09-01 13:00 root         INFO     testing flickr/2/image50976.jpg
+09-01 13:00 root         INFO     testing flickr/2/image51125.jpg
+09-01 13:00 root         INFO     testing flickr/2/image51221.jpg
+09-01 13:00 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/2/image51221.jpg does not exist
+09-01 13:00 root         INFO     testing flickr/2/image51363.jpg
+09-01 13:00 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/2/image51363.jpg does not exist
+09-01 13:00 root         INFO     testing flickr/2/image51722.jpg
+09-01 13:00 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/2/image51722.jpg does not exist
+09-01 13:00 root         INFO     testing flickr/2/image51894.jpg
+09-01 13:00 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/2/image51894.jpg does not exist
+09-01 13:00 root         INFO     testing flickr/2/image52055.jpg
+09-01 13:00 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/2/image52055.jpg does not exist
+09-01 13:00 root         INFO     testing flickr/2/image52299.jpg
+09-01 13:00 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/2/image52299.jpg does not exist
+09-01 13:00 root         INFO     testing flickr/2/image52527.jpg
+09-01 13:00 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/2/image52527.jpg does not exist
+09-01 13:00 root         INFO     testing flickr/2/image52971.jpg
+09-01 13:00 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/2/image52971.jpg does not exist
+09-01 13:00 root         INFO     testing flickr/2/image53225.jpg
+09-01 13:00 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/2/image53225.jpg does not exist
+09-01 13:00 root         INFO     testing flickr/2/image53475.jpg
+09-01 13:00 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/2/image53475.jpg does not exist
+09-01 13:00 root         INFO     testing flickr/2/image53665.jpg
+09-01 13:00 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/2/image53665.jpg does not exist
+09-01 13:00 root         INFO     testing flickr/2/image53909.jpg
+09-01 13:00 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/2/image53909.jpg does not exist
+09-01 13:00 root         INFO     testing flickr/2/image54173.jpg
+09-01 13:00 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/2/image54173.jpg does not exist
+09-01 13:00 root         INFO     testing flickr/2/image54420.jpg
+09-01 13:00 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/2/image54420.jpg does not exist
+09-01 13:00 root         INFO     testing flickr/2/image54728.jpg
+09-01 13:00 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/2/image54728.jpg does not exist
+09-01 13:00 root         INFO     testing flickr/2/image54982.jpg
+09-01 13:00 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/2/image54982.jpg does not exist
+09-01 13:00 root         INFO     testing flickr/2/image55200.jpg
+09-01 13:00 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/2/image55200.jpg does not exist
+09-01 13:00 root         INFO     testing flickr/2/image55544.jpg
+09-01 13:00 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/2/image55544.jpg does not exist
+09-01 13:00 root         INFO     testing flickr/2/image55835.jpg
+09-01 13:00 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/2/image55835.jpg does not exist
+09-01 13:00 root         INFO     testing flickr/2/image56080.jpg
+09-01 13:00 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/2/image56080.jpg does not exist
+09-01 13:00 root         INFO     testing flickr/2/image56308.jpg
+09-01 13:00 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/2/image56308.jpg does not exist
+09-01 13:00 root         INFO     testing flickr/2/image56607.jpg
+09-01 13:00 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/2/image56607.jpg does not exist
+09-01 13:00 root         INFO     testing flickr/2/image56865.jpg
+09-01 13:00 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/2/image56865.jpg does not exist
+09-01 13:00 root         INFO     testing flickr/2/image57064.jpg
+09-01 13:00 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/2/image57064.jpg does not exist
+09-01 13:00 root         INFO     testing flickr/2/image57203.jpg
+09-01 13:00 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/2/image57203.jpg does not exist
+09-01 13:00 root         INFO     testing flickr/2/image57307.jpg
+09-01 13:00 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/2/image57307.jpg does not exist
+09-01 13:00 root         INFO     testing flickr/2/image57456.jpg
+09-01 13:00 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/2/image57456.jpg does not exist
+09-01 13:00 root         INFO     testing flickr/2/image57583.jpg
+09-01 13:00 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/2/image57583.jpg does not exist
+09-01 13:00 root         INFO     testing flickr/2/image57767.jpg
+09-01 13:00 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/2/image57767.jpg does not exist
+09-01 13:00 root         INFO     testing flickr/2/image57900.jpg
+09-01 13:00 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/2/image57900.jpg does not exist
+09-01 13:00 root         INFO     testing flickr/2/image58026.jpg
+09-01 13:00 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/2/image58026.jpg does not exist
+09-01 13:00 root         INFO     testing flickr/2/image58190.jpg
+09-01 13:00 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/2/image58190.jpg does not exist
+09-01 13:00 root         INFO     testing flickr/2/image58339.jpg
+09-01 13:00 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/2/image58339.jpg does not exist
+09-01 13:00 root         INFO     testing flickr/2/image58582.jpg
+09-01 13:00 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/2/image58582.jpg does not exist
+09-01 13:00 root         INFO     testing flickr/2/image58765.jpg
+09-01 13:00 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/2/image58765.jpg does not exist
+09-01 13:00 root         INFO     testing flickr/2/image58947.jpg
+09-01 13:00 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/2/image58947.jpg does not exist
+09-01 13:00 root         INFO     testing flickr/2/image59113.jpg
+09-01 13:00 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/2/image59113.jpg does not exist
+09-01 13:00 root         INFO     testing flickr/2/image59327.jpg
+09-01 13:00 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/2/image59327.jpg does not exist
+09-01 13:00 root         INFO     testing flickr/2/image59515.jpg
+09-01 13:00 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/2/image59515.jpg does not exist
+09-01 13:00 root         INFO     testing flickr/2/image59632.jpg
+09-01 13:00 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/2/image59632.jpg does not exist
+09-01 13:00 root         INFO     testing flickr/2/image59760.jpg
+09-01 13:00 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/2/image59760.jpg does not exist
+09-01 13:00 root         INFO     testing flickr/2/image59931.jpg
+09-01 13:00 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/2/image59931.jpg does not exist
+09-01 13:00 root         INFO     testing flickr/2/image60092.jpg
+09-01 13:00 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/2/image60092.jpg does not exist
+09-01 13:00 root         INFO     testing flickr/2/image60223.jpg
+09-01 13:00 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/2/image60223.jpg does not exist
+09-01 13:00 root         INFO     testing flickr/2/image60437.jpg
+09-01 13:00 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/2/image60437.jpg does not exist
+09-01 13:00 root         INFO     testing flickr/2/image60882.jpg
+09-01 13:00 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/2/image60882.jpg does not exist
+09-01 13:00 root         INFO     testing flickr/2/image61531.jpg
+09-01 13:00 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/2/image61531.jpg does not exist
+09-01 13:00 root         INFO     testing flickr/2/image62072.jpg
+09-01 13:00 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/2/image62072.jpg does not exist
+09-01 13:00 root         INFO     testing flickr/2/image62439.jpg
+09-01 13:00 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/2/image62439.jpg does not exist
+09-01 13:00 root         INFO     testing flickr/2/image63022.jpg
+09-01 13:00 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/2/image63022.jpg does not exist
+09-01 13:00 root         INFO     testing flickr/2/image63417.jpg
+09-01 13:00 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/2/image63417.jpg does not exist
+09-01 13:00 root         INFO     testing flickr/2/image63554.jpg
+09-01 13:00 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/2/image63554.jpg does not exist
+09-01 13:00 root         INFO     testing flickr/2/image63770.jpg
+09-01 13:00 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/2/image63770.jpg does not exist
+09-01 13:00 root         INFO     testing flickr/2/image63879.jpg
+09-01 13:00 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/2/image63879.jpg does not exist
+09-01 13:00 root         INFO     testing flickr/2/image64030.jpg
+09-01 13:00 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/2/image64030.jpg does not exist
+09-01 13:00 root         INFO     testing flickr/2/image64185.jpg
+09-01 13:00 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/2/image64185.jpg does not exist
+09-01 13:00 root         INFO     testing flickr/2/image64339.jpg
+09-01 13:00 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/2/image64339.jpg does not exist
+09-01 13:00 root         INFO     testing flickr/2/image64509.jpg
+09-01 13:00 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/2/image64509.jpg does not exist
+09-01 13:00 root         INFO     testing flickr/2/image64910.jpg
+09-01 13:00 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/2/image64910.jpg does not exist
+09-01 13:00 root         INFO     testing flickr/2/image65095.jpg
+09-01 13:00 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/2/image65095.jpg does not exist
+09-01 13:00 root         INFO     testing flickr/2/image65268.jpg
+09-01 13:00 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/2/image65268.jpg does not exist
+09-01 13:00 root         INFO     testing flickr/2/image65493.jpg
+09-01 13:00 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/2/image65493.jpg does not exist
+09-01 13:00 root         INFO     testing flickr/2/image65712.jpg
+09-01 13:00 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/2/image65712.jpg does not exist
+09-01 13:00 root         INFO     testing flickr/2/image65813.jpg
+09-01 13:00 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/2/image65813.jpg does not exist
+09-01 13:00 root         INFO     testing flickr/2/image65940.jpg
+09-01 13:00 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/2/image65940.jpg does not exist
+09-01 13:00 root         INFO     testing flickr/2/image66088.jpg
+09-01 13:00 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/2/image66088.jpg does not exist
+09-01 13:00 root         INFO     testing flickr/2/image66226.jpg
+09-01 13:00 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/2/image66226.jpg does not exist
+09-01 13:00 root         INFO     testing flickr/2/image66410.jpg
+09-01 13:00 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/2/image66410.jpg does not exist
+09-01 13:00 root         INFO     testing flickr/2/image66618.jpg
+09-01 13:00 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/2/image66618.jpg does not exist
+09-01 13:00 root         INFO     testing flickr/2/image66719.jpg
+09-01 13:00 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/2/image66719.jpg does not exist
+09-01 13:00 root         INFO     testing flickr/2/image66822.jpg
+09-01 13:00 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/2/image66822.jpg does not exist
+09-01 13:00 root         INFO     testing flickr/2/image66969.jpg
+09-01 13:00 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/2/image66969.jpg does not exist
+09-01 13:00 root         INFO     testing flickr/2/image67122.jpg
+09-01 13:00 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/2/image67122.jpg does not exist
+09-01 13:00 root         INFO     testing flickr/2/image67174.jpg
+09-01 13:00 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/2/image67174.jpg does not exist
+09-01 13:00 root         INFO     testing flickr/2/image67236.jpg
+09-01 13:00 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/2/image67236.jpg does not exist
+09-01 13:00 root         INFO     testing flickr/2/image67313.jpg
+09-01 13:00 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/2/image67313.jpg does not exist
+09-01 13:00 root         INFO     testing flickr/2/image67363.jpg
+09-01 13:00 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/2/image67363.jpg does not exist
+09-01 13:00 root         INFO     testing flickr/2/image67546.jpg
+09-01 13:00 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/2/image67546.jpg does not exist
+09-01 13:00 root         INFO     testing flickr/2/image67753.jpg
+09-01 13:00 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/2/image67753.jpg does not exist
+09-01 13:00 root         INFO     testing flickr/2/image67877.jpg
+09-01 13:00 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/2/image67877.jpg does not exist
+09-01 13:00 root         INFO     testing flickr/2/image68032.jpg
+09-01 13:00 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/2/image68032.jpg does not exist
+09-01 13:00 root         INFO     testing flickr/2/image68165.jpg
+09-01 13:00 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/2/image68165.jpg does not exist
+09-01 13:00 root         INFO     testing flickr/2/image68317.jpg
+09-01 13:00 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/2/image68317.jpg does not exist
+09-01 13:00 root         INFO     testing flickr/2/image68561.jpg
+09-01 13:00 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/2/image68561.jpg does not exist
+09-01 13:00 root         INFO     testing flickr/2/image68750.jpg
+09-01 13:00 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/2/image68750.jpg does not exist
+09-01 13:00 root         INFO     testing flickr/2/image69222.jpg
+09-01 13:00 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/2/image69222.jpg does not exist
+09-01 13:00 root         INFO     testing flickr/2/image69433.jpg
+09-01 13:00 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/2/image69433.jpg does not exist
+09-01 13:00 root         INFO     testing flickr/2/image69687.jpg
+09-01 13:00 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/2/image69687.jpg does not exist
+09-01 13:00 root         INFO     testing flickr/2/image69849.jpg
+09-01 13:00 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/2/image69849.jpg does not exist
+09-01 13:00 root         INFO     testing flickr/2/image69990.jpg
+09-01 13:00 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/2/image69990.jpg does not exist
+09-01 13:00 root         INFO     testing flickr/2/image70132.jpg
+09-01 13:00 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/2/image70132.jpg does not exist
+09-01 13:00 root         INFO     testing flickr/2/image70370.jpg
+09-01 13:00 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/2/image70370.jpg does not exist
+09-01 13:00 root         INFO     testing flickr/2/image70570.jpg
+09-01 13:00 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/2/image70570.jpg does not exist
+09-01 13:00 root         INFO     testing flickr/2/image70817.jpg
+09-01 13:00 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/2/image70817.jpg does not exist
+09-01 13:00 root         INFO     testing flickr/2/image71007.jpg
+09-01 13:00 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/2/image71007.jpg does not exist
+09-01 13:00 root         INFO     testing flickr/2/image71204.jpg
+09-01 13:00 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/2/image71204.jpg does not exist
+09-01 13:00 root         INFO     testing flickr/2/image02599.png
+09-01 13:00 root         INFO     testing flickr/2/image71325.jpg
+09-01 13:00 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/2/image71325.jpg does not exist
+09-01 13:00 root         INFO     testing flickr/2/image69467.jpg
+09-01 13:00 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/2/image69467.jpg does not exist
+09-01 13:00 root         INFO     testing flickr/0/image71223.jpg
+09-01 13:00 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/0/image71223.jpg does not exist
+09-01 13:00 root         INFO     testing flickr/0/image00081.jpg
+09-01 13:00 root         INFO     testing flickr/0/image00136.jpg
+09-01 13:00 root         INFO     testing flickr/0/image00199.jpg
+09-01 13:00 root         INFO     testing flickr/0/image00254.jpg
+09-01 13:01 root         INFO     testing flickr/0/image00310.jpg
+09-01 13:01 root         INFO     testing flickr/0/image00360.jpg
+09-01 13:01 root         INFO     testing flickr/0/image00405.jpg
+09-01 13:01 root         INFO     testing flickr/0/image00447.jpg
+09-01 13:01 root         INFO     testing flickr/0/image00500.jpg
+09-01 13:01 root         INFO     testing flickr/0/image00543.jpg
+09-01 13:01 root         INFO     testing flickr/0/image00595.jpg
+09-01 13:01 root         INFO     testing flickr/0/image00642.jpg
+09-01 13:01 root         INFO     testing flickr/0/image00693.jpg
+09-01 13:01 root         INFO     testing flickr/0/image00753.jpg
+09-01 13:01 root         INFO     testing flickr/0/image00797.jpg
+09-01 13:02 root         INFO     testing flickr/0/image00849.jpg
+09-01 13:02 root         INFO     testing flickr/0/image00898.jpg
+09-01 13:02 root         INFO     testing flickr/0/image00948.jpg
+09-01 13:02 root         INFO     testing flickr/0/image00998.jpg
+09-01 13:02 root         INFO     testing flickr/0/image01048.jpg
+09-01 13:02 root         INFO     testing flickr/0/image01087.jpg
+09-01 13:02 root         INFO     testing flickr/0/image01132.jpg
+09-01 13:02 root         INFO     testing flickr/0/image01184.jpg
+09-01 13:03 root         INFO     testing flickr/0/image01247.jpg
+09-01 13:03 root         INFO     testing flickr/0/image01306.jpg
+09-01 13:03 root         INFO     testing flickr/0/image01375.jpg
+09-01 13:03 root         INFO     testing flickr/0/image01438.jpg
+09-01 13:03 root         INFO     testing flickr/0/image01503.jpg
+09-01 13:03 root         INFO     testing flickr/2/image01630.jpg
+09-01 13:03 root         INFO     testing flickr/0/image01780.jpg
+09-01 13:03 root         INFO     testing flickr/0/image01902.jpg
+09-01 13:04 root         INFO     testing flickr/0/image01981.jpg
+09-01 13:04 root         INFO     testing flickr/0/image02036.jpg
+09-01 13:04 root         INFO     testing flickr/0/image02121.jpg
+09-01 13:04 root         INFO     testing flickr/0/image02202.jpg
+09-01 13:04 root         INFO     testing flickr/0/image02284.jpg
+09-01 13:04 root         INFO     testing flickr/0/image02378.jpg
+09-01 13:04 root         INFO     testing flickr/0/image02482.jpg
+09-01 13:04 root         INFO     testing flickr/0/image02630.jpg
+09-01 13:04 root         INFO     testing flickr/0/image02740.jpg
+09-01 13:04 root         INFO     testing flickr/0/image02820.jpg
+09-01 13:05 root         INFO     testing flickr/0/image02869.jpg
+09-01 13:05 root         INFO     testing flickr/0/image02977.jpg
+09-01 13:05 root         INFO     testing flickr/0/image03045.jpg
+09-01 13:05 root         INFO     testing flickr/0/image03186.jpg
+09-01 13:05 root         INFO     testing flickr/0/image03345.jpg
+09-01 13:05 root         INFO     testing flickr/0/image03402.jpg
+09-01 13:05 root         INFO     testing flickr/0/image03499.jpg
+09-01 13:05 root         INFO     testing flickr/0/image03573.jpg
+09-01 13:05 root         INFO     testing flickr/0/image03652.jpg
+09-01 13:06 root         INFO     testing flickr/0/image03708.jpg
+09-01 13:06 root         INFO     testing flickr/0/image03740.jpg
+09-01 13:06 root         INFO     testing flickr/0/image03767.jpg
+09-01 13:06 root         INFO     testing flickr/0/image03796.jpg
+09-01 13:06 root         INFO     testing flickr/0/image03824.jpg
+09-01 13:06 root         INFO     testing flickr/0/image03897.jpg
+09-01 13:06 root         INFO     testing flickr/0/image03992.jpg
+09-01 13:06 root         INFO     testing flickr/0/image04184.jpg
+09-01 13:06 root         INFO     testing flickr/0/image04251.jpg
+09-01 13:06 root         INFO     testing flickr/0/image04314.jpg
+09-01 13:06 root         INFO     testing flickr/0/image04415.jpg
+09-01 13:06 root         INFO     testing flickr/0/image04546.jpg
+09-01 13:06 root         INFO     testing flickr/0/image04666.jpg
+09-01 13:07 root         INFO     testing flickr/0/image04718.jpg
+09-01 13:07 root         INFO     testing flickr/0/image04738.jpg
+09-01 13:07 root         INFO     testing flickr/0/image04791.jpg
+09-01 13:07 root         INFO     testing flickr/0/image04865.jpg
+09-01 13:07 root         INFO     testing flickr/0/image04925.jpg
+09-01 13:07 root         INFO     testing flickr/0/image05000.jpg
+09-01 13:07 root         INFO     testing flickr/0/image05078.jpg
+09-01 13:07 root         INFO     testing flickr/0/image05173.jpg
+09-01 13:08 root         INFO     testing flickr/0/image05240.jpg
+09-01 13:08 root         INFO     testing flickr/0/image05280.jpg
+09-01 13:08 root         INFO     testing flickr/0/image05333.jpg
+09-01 13:08 root         INFO     testing flickr/0/image05405.jpg
+09-01 13:08 root         INFO     testing flickr/0/image05485.jpg
+09-01 13:08 root         INFO     testing flickr/0/image05566.jpg
+09-01 13:08 root         INFO     testing flickr/0/image05675.jpg
+09-01 13:09 root         INFO     testing flickr/0/image05796.jpg
+09-01 13:09 root         INFO     testing flickr/0/image05893.jpg
+09-01 13:09 root         INFO     testing flickr/0/image05947.jpg
+09-01 13:09 root         INFO     testing flickr/0/image06074.jpg
+09-01 13:09 root         INFO     testing flickr/0/image06154.jpg
+09-01 13:09 root         INFO     testing flickr/0/image06321.jpg
+09-01 13:09 root         INFO     testing flickr/0/image06415.jpg
+09-01 13:09 root         INFO     testing flickr/0/image06452.jpg
+09-01 13:09 root         INFO     testing flickr/0/image06549.jpg
+09-01 13:09 root         INFO     testing flickr/0/image06644.jpg
+09-01 13:10 root         INFO     testing flickr/0/image06818.jpg
+09-01 13:10 root         INFO     testing flickr/0/image06903.jpg
+09-01 13:10 root         INFO     testing flickr/0/image07005.jpg
+09-01 13:10 root         INFO     testing flickr/0/image07067.jpg
+09-01 13:10 root         INFO     testing flickr/0/image07093.jpg
+09-01 13:10 root         INFO     testing flickr/0/image07113.jpg
+09-01 13:10 root         INFO     testing flickr/0/image07224.jpg
+09-01 13:10 root         INFO     testing flickr/0/image07382.jpg
+09-01 13:10 root         INFO     testing flickr/0/image07517.jpg
+09-01 13:10 root         INFO     testing flickr/0/image07599.jpg
+09-01 13:10 root         INFO     testing flickr/0/image07665.jpg
+09-01 13:11 root         INFO     testing flickr/0/image07713.jpg
+09-01 13:11 root         INFO     testing flickr/0/image07850.jpg
+09-01 13:11 root         INFO     testing flickr/0/image07978.jpg
+09-01 13:11 root         INFO     testing flickr/0/image08072.jpg
+09-01 13:11 root         INFO     testing flickr/0/image08211.jpg
+09-01 13:11 root         INFO     testing flickr/0/image08293.jpg
+09-01 13:11 root         INFO     testing flickr/0/image08415.jpg
+09-01 13:11 root         INFO     testing flickr/0/image08487.jpg
+09-01 13:11 root         INFO     testing flickr/0/image08616.jpg
+09-01 13:11 root         INFO     testing flickr/0/image08744.jpg
+09-01 13:12 root         INFO     testing flickr/0/image08872.jpg
+09-01 13:12 root         INFO     testing flickr/0/image09052.jpg
+09-01 13:12 root         INFO     testing flickr/0/image09219.jpg
+09-01 13:12 root         INFO     testing flickr/0/image09445.jpg
+09-01 13:12 root         INFO     testing flickr/0/image09491.jpg
+09-01 13:12 root         INFO     testing flickr/0/image09543.jpg
+09-01 13:12 root         INFO     testing flickr/0/image09605.jpg
+09-01 13:12 root         INFO     testing flickr/0/image09660.jpg
+09-01 13:12 root         INFO     testing flickr/0/image09729.jpg
+09-01 13:12 root         INFO     testing flickr/0/image09789.jpg
+09-01 13:13 root         INFO     testing flickr/0/image09832.jpg
+09-01 13:13 root         INFO     testing flickr/0/image09892.jpg
+09-01 13:13 root         INFO     testing flickr/0/image09956.jpg
+09-01 13:13 root         INFO     testing flickr/0/image10014.jpg
+09-01 13:13 root         INFO     testing flickr/0/image10059.jpg
+09-01 13:13 root         INFO     testing flickr/0/image10143.jpg
+09-01 13:13 root         INFO     testing flickr/0/image10183.jpg
+09-01 13:14 root         INFO     testing flickr/0/image10220.jpg
+09-01 13:14 root         INFO     testing flickr/0/image10271.jpg
+09-01 13:14 root         INFO     testing flickr/0/image10352.jpg
+09-01 13:14 root         INFO     testing flickr/0/image10461.jpg
+09-01 13:14 root         INFO     testing flickr/0/image10564.jpg
+09-01 13:14 root         INFO     testing flickr/0/image10650.jpg
+09-01 13:14 root         INFO     testing flickr/0/image10761.jpg
+09-01 13:14 root         INFO     testing flickr/0/image10855.jpg
+09-01 13:14 root         INFO     testing flickr/0/image10991.jpg
+09-01 13:14 root         INFO     testing flickr/0/image11115.jpg
+09-01 13:14 root         INFO     testing flickr/0/image11154.jpg
+09-01 13:15 root         INFO     testing flickr/0/image11218.jpg
+09-01 13:15 root         INFO     testing flickr/0/image11296.jpg
+09-01 13:15 root         INFO     testing flickr/0/image11476.jpg
+09-01 13:15 root         INFO     testing flickr/0/image11592.jpg
+09-01 13:15 root         INFO     testing flickr/0/image11683.jpg
+09-01 13:15 root         INFO     testing flickr/0/image11776.jpg
+09-01 13:15 root         INFO     testing flickr/0/image11872.jpg
+09-01 13:15 root         INFO     testing flickr/0/image11934.jpg
+09-01 13:16 root         INFO     testing flickr/0/image12092.jpg
+09-01 13:16 root         INFO     testing flickr/0/image12259.jpg
+09-01 13:16 root         INFO     testing flickr/0/image12359.jpg
+09-01 13:16 root         INFO     testing flickr/0/image12426.jpg
+09-01 13:16 root         INFO     testing flickr/0/image12543.jpg
+09-01 13:16 root         INFO     testing flickr/0/image12604.jpg
+09-01 13:16 root         INFO     testing flickr/0/image12713.jpg
+09-01 13:16 root         INFO     testing flickr/0/image12744.jpg
+09-01 13:16 root         INFO     testing flickr/0/image12821.jpg
+09-01 13:17 root         INFO     testing flickr/0/image12870.jpg
+09-01 13:17 root         INFO     testing flickr/0/image12913.jpg
+09-01 13:17 root         INFO     testing flickr/0/image12944.jpg
+09-01 13:17 root         INFO     testing flickr/0/image12979.jpg
+09-01 13:17 root         INFO     testing flickr/0/image13018.jpg
+09-01 13:17 root         INFO     testing flickr/0/image13069.jpg
+09-01 13:17 root         INFO     testing flickr/0/image13113.jpg
+09-01 13:17 root         INFO     testing flickr/0/image13165.jpg
+09-01 13:17 root         INFO     testing flickr/0/image13204.jpg
+09-01 13:18 root         INFO     testing flickr/0/image13262.jpg
+09-01 13:18 root         INFO     testing flickr/0/image13300.jpg
+09-01 13:18 root         INFO     testing flickr/0/image13345.jpg
+09-01 13:18 root         INFO     testing flickr/0/image13391.jpg
+09-01 13:18 root         INFO     testing flickr/0/image13443.jpg
+09-01 13:18 root         INFO     testing flickr/0/image13482.jpg
+09-01 13:18 root         INFO     testing flickr/0/image13525.jpg
+09-01 13:18 root         INFO     testing flickr/0/image13560.jpg
+09-01 13:18 root         INFO     testing flickr/0/image13612.jpg
+09-01 13:18 root         INFO     testing flickr/0/image13648.jpg
+09-01 13:19 root         INFO     testing flickr/0/image13720.jpg
+09-01 13:19 root         INFO     testing flickr/0/image13762.jpg
+09-01 13:19 root         INFO     testing flickr/0/image13803.jpg
+09-01 13:19 root         INFO     testing flickr/0/image13846.jpg
+09-01 13:19 root         INFO     testing flickr/0/image13881.jpg
+09-01 13:19 root         INFO     testing flickr/0/image13917.jpg
+09-01 13:20 root         INFO     testing flickr/0/image13979.jpg
+09-01 13:20 root         INFO     testing flickr/0/image14045.jpg
+09-01 13:20 root         INFO     testing flickr/0/image14123.jpg
+09-01 13:20 root         INFO     testing flickr/0/image14188.jpg
+09-01 13:20 root         INFO     testing flickr/0/image14234.jpg
+09-01 13:20 root         INFO     testing flickr/0/image14301.jpg
+09-01 13:20 root         INFO     testing flickr/0/image14427.jpg
+09-01 13:20 root         INFO     testing flickr/0/image14567.jpg
+09-01 13:20 root         INFO     testing flickr/0/image14650.jpg
+09-01 13:21 root         INFO     testing flickr/0/image14719.jpg
+09-01 13:21 root         INFO     testing flickr/0/image14897.jpg
+09-01 13:21 root         INFO     testing flickr/0/image14956.jpg
+09-01 13:21 root         INFO     testing flickr/0/image15067.jpg
+09-01 13:21 root         INFO     testing flickr/0/image15182.jpg
+09-01 13:21 root         INFO     testing flickr/0/image15342.jpg
+09-01 13:21 root         INFO     testing flickr/0/image15491.jpg
+09-01 13:21 root         INFO     testing flickr/0/image15752.jpg
+09-01 13:22 root         INFO     testing flickr/0/image15978.jpg
+09-01 13:22 root         INFO     testing flickr/0/image16256.jpg
+09-01 13:22 root         INFO     testing flickr/0/image16478.jpg
+09-01 13:22 root         INFO     testing flickr/0/image16663.jpg
+09-01 13:22 root         INFO     testing flickr/0/image17068.jpg
+09-01 13:22 root         INFO     testing flickr/0/image17408.jpg
+09-01 13:22 root         INFO     testing flickr/0/image17676.jpg
+09-01 13:22 root         INFO     testing flickr/0/image17760.jpg
+09-01 13:22 root         INFO     testing flickr/0/image17841.jpg
+09-01 13:22 root         INFO     testing flickr/0/image17919.jpg
+09-01 13:23 root         INFO     testing flickr/0/image17979.jpg
+09-01 13:23 root         INFO     testing flickr/0/image18070.jpg
+09-01 13:23 root         INFO     testing flickr/0/image18163.jpg
+09-01 13:23 root         INFO     testing flickr/0/image18235.jpg
+09-01 13:23 root         INFO     testing flickr/0/image18299.jpg
+09-01 13:23 root         INFO     testing flickr/0/image18426.jpg
+09-01 13:23 root         INFO     testing flickr/0/image18475.jpg
+09-01 13:23 root         INFO     testing flickr/0/image18561.jpg
+09-01 13:24 root         INFO     testing flickr/0/image18635.jpg
+09-01 13:24 root         INFO     testing flickr/0/image18676.jpg
+09-01 13:24 root         INFO     testing flickr/0/image18712.jpg
+09-01 13:24 root         INFO     testing flickr/0/image18735.jpg
+09-01 13:24 root         INFO     testing flickr/2/image18765.jpg
+09-01 13:24 root         INFO     testing flickr/0/image18806.jpg
+09-01 13:24 root         INFO     testing flickr/0/image18852.jpg
+09-01 13:24 root         INFO     testing flickr/0/image18880.jpg
+09-01 13:24 root         INFO     testing flickr/0/image18912.jpg
+09-01 13:24 root         INFO     testing flickr/0/image18952.jpg
+09-01 13:25 root         INFO     testing flickr/0/image18994.jpg
+09-01 13:25 root         INFO     testing flickr/0/image19034.jpg
+09-01 13:25 root         INFO     testing flickr/0/image19058.jpg
+09-01 13:25 root         INFO     testing flickr/0/image19084.jpg
+09-01 13:25 root         INFO     testing flickr/0/image19136.jpg
+09-01 13:25 root         INFO     testing flickr/0/image19145.jpg
+09-01 13:25 root         INFO     testing flickr/0/image19175.jpg
+09-01 13:25 root         INFO     testing flickr/0/image19232.jpg
+09-01 13:25 root         INFO     testing flickr/3/image19260.jpg
+09-01 13:25 root         INFO     testing flickr/0/image19303.jpg
+09-01 13:26 root         INFO     testing flickr/0/image19345.jpg
+09-01 13:26 root         INFO     testing flickr/0/image19384.jpg
+09-01 13:26 root         INFO     testing flickr/0/image19434.jpg
+09-01 13:26 root         INFO     testing flickr/0/image19478.jpg
+09-01 13:26 root         INFO     testing flickr/2/image19520.jpg
+09-01 13:26 root         INFO     testing flickr/0/image19553.jpg
+09-01 13:26 root         INFO     testing flickr/0/image19591.jpg
+09-01 13:26 root         INFO     testing flickr/0/image19615.jpg
+09-01 13:26 root         INFO     testing flickr/0/image19634.jpg
+09-01 13:27 root         INFO     testing flickr/0/image19680.jpg
+09-01 13:27 root         INFO     testing flickr/0/image19712.jpg
+09-01 13:27 root         INFO     testing flickr/0/image19758.jpg
+09-01 13:27 root         INFO     testing flickr/0/image19795.jpg
+09-01 13:27 root         INFO     testing flickr/0/image19837.jpg
+09-01 13:27 root         INFO     testing flickr/0/image19874.jpg
+09-01 13:27 root         INFO     testing flickr/0/image19906.jpg
+09-01 13:27 root         INFO     testing flickr/3/image19931.jpg
+09-01 13:27 root         INFO     testing flickr/0/image19968.jpg
+09-01 13:27 root         INFO     testing flickr/0/image19998.jpg
+09-01 13:28 root         INFO     testing flickr/3/image20019.jpg
+09-01 13:28 root         INFO     testing flickr/0/image20042.jpg
+09-01 13:28 root         INFO     testing flickr/0/image20069.jpg
+09-01 13:28 root         INFO     testing flickr/0/image20103.jpg
+09-01 13:28 root         INFO     testing flickr/0/image20141.jpg
+09-01 13:28 root         INFO     testing flickr/2/image20181.jpg
+09-01 13:28 root         INFO     testing flickr/0/image20209.jpg
+09-01 13:28 root         INFO     testing flickr/0/image20249.jpg
+09-01 13:28 root         INFO     testing flickr/0/image20285.jpg
+09-01 13:29 root         INFO     testing flickr/0/image20320.jpg
+09-01 13:29 root         INFO     testing flickr/0/image20366.jpg
+09-01 13:29 root         INFO     testing flickr/0/image20396.jpg
+09-01 13:29 root         INFO     testing flickr/2/image20426.jpg
+09-01 13:29 root         INFO     testing flickr/0/image20460.jpg
+09-01 13:29 root         INFO     testing flickr/0/image20495.jpg
+09-01 13:29 root         INFO     testing flickr/0/image20532.jpg
+09-01 13:29 root         INFO     testing flickr/0/image20567.jpg
+09-01 13:29 root         INFO     testing flickr/0/image20612.jpg
+09-01 13:30 root         INFO     testing flickr/0/image20648.jpg
+09-01 13:30 root         INFO     testing flickr/0/image20659.jpg
+09-01 13:30 root         INFO     testing flickr/3/image20682.jpg
+09-01 13:30 root         INFO     testing flickr/0/image20695.jpg
+09-01 13:30 root         INFO     testing flickr/0/image20704.jpg
+09-01 13:30 root         INFO     testing flickr/0/image20724.jpg
+09-01 13:30 root         INFO     testing flickr/3/image20739.jpg
+09-01 13:30 root         INFO     testing flickr/0/image20753.jpg
+09-01 13:30 root         INFO     testing flickr/0/image20774.jpg
+09-01 13:31 root         INFO     testing flickr/0/image20790.jpg
+09-01 13:31 root         INFO     testing flickr/0/image20803.jpg
+09-01 13:31 root         INFO     testing flickr/0/image20811.jpg
+09-01 13:31 root         INFO     testing flickr/3/image20824.jpg
+09-01 13:31 root         INFO     testing flickr/0/image20837.jpg
+09-01 13:31 root         INFO     testing flickr/0/image20844.jpg
+09-01 13:31 root         INFO     testing flickr/0/image20865.jpg
+09-01 13:31 root         INFO     testing flickr/0/image20881.jpg
+09-01 13:31 root         INFO     testing flickr/0/image20890.jpg
+09-01 13:31 root         INFO     testing flickr/3/image20903.jpg
+09-01 13:32 root         INFO     testing flickr/3/image20940.jpg
+09-01 13:32 root         INFO     testing flickr/0/image20967.jpg
+09-01 13:32 root         INFO     testing flickr/0/image20897.jpg
+09-01 13:32 root         INFO     testing flickr/2/image21049.jpg
+09-01 13:32 root         INFO     testing flickr/0/image21073.jpg
+09-01 13:32 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/0/image21073.jpg does not exist
+09-01 13:32 root         INFO     testing flickr/0/image21091.jpg
+09-01 13:32 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/0/image21091.jpg does not exist
+09-01 13:32 root         INFO     testing flickr/0/image21114.jpg
+09-01 13:32 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/0/image21114.jpg does not exist
+09-01 13:32 root         INFO     testing flickr/0/image21150.jpg
+09-01 13:32 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/0/image21150.jpg does not exist
+09-01 13:32 root         INFO     testing flickr/0/image21180.jpg
+09-01 13:32 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/0/image21180.jpg does not exist
+09-01 13:32 root         INFO     testing flickr/0/image21211.jpg
+09-01 13:32 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/0/image21211.jpg does not exist
+09-01 13:32 root         INFO     testing flickr/0/image21237.jpg
+09-01 13:32 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/0/image21237.jpg does not exist
+09-01 13:32 root         INFO     testing flickr/0/image21285.jpg
+09-01 13:32 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/0/image21285.jpg does not exist
+09-01 13:32 root         INFO     testing flickr/0/image21306.jpg
+09-01 13:32 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/0/image21306.jpg does not exist
+09-01 13:32 root         INFO     testing flickr/0/image21329.jpg
+09-01 13:32 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/0/image21329.jpg does not exist
+09-01 13:32 root         INFO     testing flickr/0/image21366.jpg
+09-01 13:32 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/0/image21366.jpg does not exist
+09-01 13:32 root         INFO     testing flickr/0/image21407.jpg
+09-01 13:32 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/0/image21407.jpg does not exist
+09-01 13:32 root         INFO     testing flickr/0/image21443.jpg
+09-01 13:32 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/0/image21443.jpg does not exist
+09-01 13:32 root         INFO     testing flickr/0/image21470.jpg
+09-01 13:32 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/0/image21470.jpg does not exist
+09-01 13:32 root         INFO     testing flickr/0/image21513.jpg
+09-01 13:32 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/0/image21513.jpg does not exist
+09-01 13:32 root         INFO     testing flickr/0/image21546.jpg
+09-01 13:32 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/0/image21546.jpg does not exist
+09-01 13:32 root         INFO     testing flickr/0/image21587.jpg
+09-01 13:32 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/0/image21587.jpg does not exist
+09-01 13:32 root         INFO     testing flickr/0/image21641.jpg
+09-01 13:32 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/0/image21641.jpg does not exist
+09-01 13:32 root         INFO     testing flickr/0/image21668.jpg
+09-01 13:32 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/0/image21668.jpg does not exist
+09-01 13:32 root         INFO     testing flickr/3/image21708.jpg
+09-01 13:32 root         INFO     testing flickr/0/image21752.jpg
+09-01 13:32 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/0/image21752.jpg does not exist
+09-01 13:32 root         INFO     testing flickr/0/image21798.jpg
+09-01 13:32 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/0/image21798.jpg does not exist
+09-01 13:32 root         INFO     testing flickr/0/image21847.jpg
+09-01 13:32 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/0/image21847.jpg does not exist
+09-01 13:32 root         INFO     testing flickr/0/image21888.jpg
+09-01 13:32 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/0/image21888.jpg does not exist
+09-01 13:32 root         INFO     testing flickr/0/image21913.jpg
+09-01 13:32 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/0/image21913.jpg does not exist
+09-01 13:32 root         INFO     testing flickr/0/image21941.jpg
+09-01 13:32 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/0/image21941.jpg does not exist
+09-01 13:32 root         INFO     testing flickr/0/image21971.jpg
+09-01 13:32 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/0/image21971.jpg does not exist
+09-01 13:32 root         INFO     testing flickr/0/image21990.jpg
+09-01 13:32 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/0/image21990.jpg does not exist
+09-01 13:32 root         INFO     testing flickr/0/image22016.jpg
+09-01 13:32 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/0/image22016.jpg does not exist
+09-01 13:32 root         INFO     testing flickr/0/image22048.jpg
+09-01 13:32 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/0/image22048.jpg does not exist
+09-01 13:32 root         INFO     testing flickr/0/image22095.jpg
+09-01 13:32 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/0/image22095.jpg does not exist
+09-01 13:32 root         INFO     testing flickr/0/image22143.jpg
+09-01 13:32 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/0/image22143.jpg does not exist
+09-01 13:32 root         INFO     testing flickr/0/image22199.jpg
+09-01 13:32 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/0/image22199.jpg does not exist
+09-01 13:32 root         INFO     testing flickr/0/image22224.jpg
+09-01 13:32 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/0/image22224.jpg does not exist
+09-01 13:32 root         INFO     testing flickr/2/image22255.jpg
+09-01 13:32 root         INFO     testing flickr/0/image22294.jpg
+09-01 13:32 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/0/image22294.jpg does not exist
+09-01 13:32 root         INFO     testing flickr/0/image22318.jpg
+09-01 13:32 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/0/image22318.jpg does not exist
+09-01 13:32 root         INFO     testing flickr/0/image22342.jpg
+09-01 13:32 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/0/image22342.jpg does not exist
+09-01 13:32 root         INFO     testing flickr/0/image22356.jpg
+09-01 13:32 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/0/image22356.jpg does not exist
+09-01 13:32 root         INFO     testing flickr/0/image22394.jpg
+09-01 13:32 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/0/image22394.jpg does not exist
+09-01 13:32 root         INFO     testing flickr/0/image22431.jpg
+09-01 13:32 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/0/image22431.jpg does not exist
+09-01 13:32 root         INFO     testing flickr/0/image22472.jpg
+09-01 13:32 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/0/image22472.jpg does not exist
+09-01 13:32 root         INFO     testing flickr/0/image22514.jpg
+09-01 13:32 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/0/image22514.jpg does not exist
+09-01 13:32 root         INFO     testing flickr/0/image22549.jpg
+09-01 13:32 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/0/image22549.jpg does not exist
+09-01 13:32 root         INFO     testing flickr/0/image22582.jpg
+09-01 13:32 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/0/image22582.jpg does not exist
+09-01 13:32 root         INFO     testing flickr/0/image22610.jpg
+09-01 13:32 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/0/image22610.jpg does not exist
+09-01 13:32 root         INFO     testing flickr/0/image22625.jpg
+09-01 13:32 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/0/image22625.jpg does not exist
+09-01 13:32 root         INFO     testing flickr/0/image22651.jpg
+09-01 13:32 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/0/image22651.jpg does not exist
+09-01 13:32 root         INFO     testing flickr/2/image22682.jpg
+09-01 13:32 root         INFO     testing flickr/0/image22716.jpg
+09-01 13:32 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/0/image22716.jpg does not exist
+09-01 13:32 root         INFO     testing flickr/0/image22746.jpg
+09-01 13:32 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/0/image22746.jpg does not exist
+09-01 13:32 root         INFO     testing flickr/0/image22779.jpg
+09-01 13:32 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/0/image22779.jpg does not exist
+09-01 13:32 root         INFO     testing flickr/0/image22826.jpg
+09-01 13:32 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/0/image22826.jpg does not exist
+09-01 13:32 root         INFO     testing flickr/0/image22841.jpg
+09-01 13:32 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/0/image22841.jpg does not exist
+09-01 13:32 root         INFO     testing flickr/0/image22872.jpg
+09-01 13:32 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/0/image22872.jpg does not exist
+09-01 13:32 root         INFO     testing flickr/0/image22911.jpg
+09-01 13:32 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/0/image22911.jpg does not exist
+09-01 13:32 root         INFO     testing flickr/0/image22927.jpg
+09-01 13:32 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/0/image22927.jpg does not exist
+09-01 13:32 root         INFO     testing flickr/0/image22959.jpg
+09-01 13:32 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/0/image22959.jpg does not exist
+09-01 13:32 root         INFO     testing flickr/0/image22990.jpg
+09-01 13:32 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/0/image22990.jpg does not exist
+09-01 13:32 root         INFO     testing flickr/0/image23038.jpg
+09-01 13:32 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/0/image23038.jpg does not exist
+09-01 13:32 root         INFO     testing flickr/0/image23086.jpg
+09-01 13:32 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/0/image23086.jpg does not exist
+09-01 13:32 root         INFO     testing flickr/0/image23121.jpg
+09-01 13:32 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/0/image23121.jpg does not exist
+09-01 13:32 root         INFO     testing flickr/0/image23162.jpg
+09-01 13:32 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/0/image23162.jpg does not exist
+09-01 13:32 root         INFO     testing flickr/0/image23194.jpg
+09-01 13:32 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/0/image23194.jpg does not exist
+09-01 13:32 root         INFO     testing flickr/0/image23260.jpg
+09-01 13:32 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/0/image23260.jpg does not exist
+09-01 13:32 root         INFO     testing flickr/0/image23308.jpg
+09-01 13:32 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/0/image23308.jpg does not exist
+09-01 13:32 root         INFO     testing flickr/0/image23373.jpg
+09-01 13:32 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/0/image23373.jpg does not exist
+09-01 13:32 root         INFO     testing flickr/2/image23407.jpg
+09-01 13:33 root         INFO     testing flickr/0/image23457.jpg
+09-01 13:33 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/0/image23457.jpg does not exist
+09-01 13:33 root         INFO     testing flickr/0/image23496.jpg
+09-01 13:33 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/0/image23496.jpg does not exist
+09-01 13:33 root         INFO     testing flickr/0/image23524.jpg
+09-01 13:33 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/0/image23524.jpg does not exist
+09-01 13:33 root         INFO     testing flickr/0/image23537.jpg
+09-01 13:33 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/0/image23537.jpg does not exist
+09-01 13:33 root         INFO     testing flickr/0/image23577.jpg
+09-01 13:33 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/0/image23577.jpg does not exist
+09-01 13:33 root         INFO     testing flickr/0/image23629.jpg
+09-01 13:33 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/0/image23629.jpg does not exist
+09-01 13:33 root         INFO     testing flickr/0/image23696.jpg
+09-01 13:33 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/0/image23696.jpg does not exist
+09-01 13:33 root         INFO     testing flickr/0/image23724.jpg
+09-01 13:33 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/0/image23724.jpg does not exist
+09-01 13:33 root         INFO     testing flickr/0/image64007.jpg
+09-01 13:33 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/0/image64007.jpg does not exist
+09-01 13:33 root         INFO     testing flickr/0/image64035.jpg
+09-01 13:33 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/0/image64035.jpg does not exist
+09-01 13:33 root         INFO     testing flickr/2/image64069.jpg
+09-01 13:33 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/2/image64069.jpg does not exist
+09-01 13:33 root         INFO     testing flickr/0/image64094.jpg
+09-01 13:33 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/0/image64094.jpg does not exist
+09-01 13:33 root         INFO     testing flickr/0/image64114.jpg
+09-01 13:33 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/0/image64114.jpg does not exist
+09-01 13:33 root         INFO     testing flickr/0/image64143.jpg
+09-01 13:33 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/0/image64143.jpg does not exist
+09-01 13:33 root         INFO     testing flickr/0/image64229.jpg
+09-01 13:33 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/0/image64229.jpg does not exist
+09-01 13:33 root         INFO     testing flickr/0/image64257.jpg
+09-01 13:33 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/0/image64257.jpg does not exist
+09-01 13:33 root         INFO     testing flickr/0/image70834.jpg
+09-01 13:33 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/0/image70834.jpg does not exist
+09-01 13:33 root         INFO     testing flickr/0/image71116.jpg
+09-01 13:33 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/0/image71116.jpg does not exist
+09-01 13:33 root         INFO     testing flickr/0/image70923.jpg
+09-01 13:33 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/0/image70923.jpg does not exist
+09-01 13:33 root         INFO     testing flickr/0/image70741.jpg
+09-01 13:33 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/0/image70741.jpg does not exist
+09-01 13:33 root         INFO     testing flickr/0/image70692.jpg
+09-01 13:33 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/0/image70692.jpg does not exist
+09-01 13:33 root         INFO     testing flickr/0/image70651.jpg
+09-01 13:33 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/0/image70651.jpg does not exist
+09-01 13:33 root         INFO     testing flickr/0/image70375.jpg
+09-01 13:33 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/0/image70375.jpg does not exist
+09-01 13:33 root         INFO     testing flickr/0/image70138.jpg
+09-01 13:33 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/0/image70138.jpg does not exist
+09-01 13:33 root         INFO     testing flickr/0/image70014.jpg
+09-01 13:33 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/0/image70014.jpg does not exist
+09-01 13:33 root         INFO     testing flickr/0/image69847.jpg
+09-01 13:33 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/0/image69847.jpg does not exist
+09-01 13:33 root         INFO     testing flickr/0/image69690.jpg
+09-01 13:33 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/0/image69690.jpg does not exist
+09-01 13:33 root         INFO     testing flickr/0/image69532.jpg
+09-01 13:33 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/0/image69532.jpg does not exist
+09-01 13:33 root         INFO     testing flickr/0/image69367.jpg
+09-01 13:33 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/0/image69367.jpg does not exist
+09-01 13:33 root         INFO     testing flickr/0/image69014.jpg
+09-01 13:33 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/0/image69014.jpg does not exist
+09-01 13:33 root         INFO     testing flickr/0/image68842.jpg
+09-01 13:33 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/0/image68842.jpg does not exist
+09-01 13:33 root         INFO     testing flickr/0/image68784.jpg
+09-01 13:33 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/0/image68784.jpg does not exist
+09-01 13:33 root         INFO     testing flickr/0/image68558.jpg
+09-01 13:33 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/0/image68558.jpg does not exist
+09-01 13:33 root         INFO     testing flickr/0/image68477.jpg
+09-01 13:33 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/0/image68477.jpg does not exist
+09-01 13:33 root         INFO     testing flickr/0/image68233.jpg
+09-01 13:33 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/0/image68233.jpg does not exist
+09-01 13:33 root         INFO     testing flickr/0/image68163.jpg
+09-01 13:33 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/0/image68163.jpg does not exist
+09-01 13:33 root         INFO     testing flickr/0/image68125.jpg
+09-01 13:33 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/0/image68125.jpg does not exist
+09-01 13:33 root         INFO     testing flickr/0/image68082.jpg
+09-01 13:33 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/0/image68082.jpg does not exist
+09-01 13:33 root         INFO     testing flickr/0/image68017.jpg
+09-01 13:33 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/0/image68017.jpg does not exist
+09-01 13:33 root         INFO     testing flickr/0/image67770.jpg
+09-01 13:33 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/0/image67770.jpg does not exist
+09-01 13:33 root         INFO     testing flickr/0/image67647.jpg
+09-01 13:33 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/0/image67647.jpg does not exist
+09-01 13:33 root         INFO     testing flickr/0/image67539.jpg
+09-01 13:33 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/0/image67539.jpg does not exist
+09-01 13:33 root         INFO     testing flickr/0/image67429.jpg
+09-01 13:33 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/0/image67429.jpg does not exist
+09-01 13:33 root         INFO     testing flickr/0/image67408.jpg
+09-01 13:33 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/0/image67408.jpg does not exist
+09-01 13:33 root         INFO     testing flickr/0/image67370.jpg
+09-01 13:33 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/0/image67370.jpg does not exist
+09-01 13:33 root         INFO     testing flickr/2/image67360.jpg
+09-01 13:33 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/2/image67360.jpg does not exist
+09-01 13:33 root         INFO     testing flickr/2/image67346.jpg
+09-01 13:33 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/2/image67346.jpg does not exist
+09-01 13:33 root         INFO     testing flickr/0/image67340.jpg
+09-01 13:33 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/0/image67340.jpg does not exist
+09-01 13:33 root         INFO     testing flickr/0/image67335.jpg
+09-01 13:33 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/0/image67335.jpg does not exist
+09-01 13:33 root         INFO     testing flickr/0/image67314.jpg
+09-01 13:33 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/0/image67314.jpg does not exist
+09-01 13:33 root         INFO     testing flickr/0/image67289.jpg
+09-01 13:33 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/0/image67289.jpg does not exist
+09-01 13:33 root         INFO     testing flickr/0/image67266.jpg
+09-01 13:33 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/0/image67266.jpg does not exist
+09-01 13:33 root         INFO     testing flickr/2/image67257.jpg
+09-01 13:33 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/2/image67257.jpg does not exist
+09-01 13:33 root         INFO     testing flickr/0/image67245.jpg
+09-01 13:33 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/0/image67245.jpg does not exist
+09-01 13:33 root         INFO     testing flickr/0/image67226.jpg
+09-01 13:33 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/0/image67226.jpg does not exist
+09-01 13:33 root         INFO     testing flickr/0/image67215.jpg
+09-01 13:33 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/0/image67215.jpg does not exist
+09-01 13:33 root         INFO     testing flickr/0/image67211.jpg
+09-01 13:33 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/0/image67211.jpg does not exist
+09-01 13:33 root         INFO     testing flickr/0/image67204.jpg
+09-01 13:33 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/0/image67204.jpg does not exist
+09-01 13:33 root         INFO     testing flickr/0/image67199.jpg
+09-01 13:33 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/0/image67199.jpg does not exist
+09-01 13:33 root         INFO     testing flickr/0/image66968.jpg
+09-01 13:33 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/0/image66968.jpg does not exist
+09-01 13:33 root         INFO     testing flickr/0/image67196.jpg
+09-01 13:33 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/0/image67196.jpg does not exist
+09-01 13:33 root         INFO     testing flickr/0/image67102.jpg
+09-01 13:33 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/0/image67102.jpg does not exist
+09-01 13:33 root         INFO     testing flickr/0/image67094.jpg
+09-01 13:33 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/0/image67094.jpg does not exist
+09-01 13:33 root         INFO     testing flickr/0/image67070.jpg
+09-01 13:33 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/0/image67070.jpg does not exist
+09-01 13:33 root         INFO     testing flickr/0/image67048.jpg
+09-01 13:33 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/0/image67048.jpg does not exist
+09-01 13:33 root         INFO     testing flickr/0/image67032.jpg
+09-01 13:33 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/0/image67032.jpg does not exist
+09-01 13:33 root         INFO     testing flickr/0/image66950.jpg
+09-01 13:33 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/0/image66950.jpg does not exist
+09-01 13:33 root         INFO     testing flickr/0/image66926.jpg
+09-01 13:33 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/0/image66926.jpg does not exist
+09-01 13:33 root         INFO     testing flickr/0/image66908.jpg
+09-01 13:33 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/0/image66908.jpg does not exist
+09-01 13:33 root         INFO     testing flickr/0/image66877.jpg
+09-01 13:33 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/0/image66877.jpg does not exist
+09-01 13:33 root         INFO     testing flickr/0/image66849.jpg
+09-01 13:33 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/0/image66849.jpg does not exist
+09-01 13:33 root         INFO     testing flickr/2/image67167.jpg
+09-01 13:33 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/2/image67167.jpg does not exist
+09-01 13:33 root         INFO     testing flickr/0/image67173.jpg
+09-01 13:33 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/0/image67173.jpg does not exist
+09-01 13:33 root         INFO     testing flickr/0/image67154.jpg
+09-01 13:33 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/0/image67154.jpg does not exist
+09-01 13:33 root         INFO     testing flickr/0/image66981.jpg
+09-01 13:33 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/0/image66981.jpg does not exist
+09-01 13:33 root         INFO     testing flickr/0/image66781.jpg
+09-01 13:33 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/0/image66781.jpg does not exist
+09-01 13:33 root         INFO     testing flickr/0/image66755.jpg
+09-01 13:33 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/0/image66755.jpg does not exist
+09-01 13:33 root         INFO     testing flickr/0/image66710.jpg
+09-01 13:33 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/0/image66710.jpg does not exist
+09-01 13:33 root         INFO     testing flickr/0/image66665.jpg
+09-01 13:33 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/0/image66665.jpg does not exist
+09-01 13:33 root         INFO     testing flickr/0/image66619.jpg
+09-01 13:33 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/0/image66619.jpg does not exist
+09-01 13:33 root         INFO     testing flickr/0/image66587.jpg
+09-01 13:33 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/0/image66587.jpg does not exist
+09-01 13:33 root         INFO     testing flickr/0/image66542.jpg
+09-01 13:33 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/0/image66542.jpg does not exist
+09-01 13:33 root         INFO     testing flickr/0/image66494.jpg
+09-01 13:33 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/0/image66494.jpg does not exist
+09-01 13:33 root         INFO     testing flickr/0/image66468.jpg
+09-01 13:33 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/0/image66468.jpg does not exist
+09-01 13:33 root         INFO     testing flickr/0/image66438.jpg
+09-01 13:33 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/0/image66438.jpg does not exist
+09-01 13:33 root         INFO     testing flickr/0/image66407.jpg
+09-01 13:33 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/0/image66407.jpg does not exist
+09-01 13:33 root         INFO     testing flickr/0/image66368.jpg
+09-01 13:33 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/0/image66368.jpg does not exist
+09-01 13:33 root         INFO     testing flickr/0/image66335.jpg
+09-01 13:33 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/0/image66335.jpg does not exist
+09-01 13:33 root         INFO     testing flickr/0/image66312.jpg
+09-01 13:33 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/0/image66312.jpg does not exist
+09-01 13:33 root         INFO     testing flickr/0/image66282.jpg
+09-01 13:33 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/0/image66282.jpg does not exist
+09-01 13:33 root         INFO     testing flickr/0/image66248.jpg
+09-01 13:33 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/0/image66248.jpg does not exist
+09-01 13:33 root         INFO     testing flickr/0/image66206.jpg
+09-01 13:33 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/0/image66206.jpg does not exist
+09-01 13:33 root         INFO     testing flickr/0/image66166.jpg
+09-01 13:33 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/0/image66166.jpg does not exist
+09-01 13:33 root         INFO     testing flickr/0/image66138.jpg
+09-01 13:33 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/0/image66138.jpg does not exist
+09-01 13:33 root         INFO     testing flickr/0/image66103.jpg
+09-01 13:33 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/0/image66103.jpg does not exist
+09-01 13:33 root         INFO     testing flickr/0/image66066.jpg
+09-01 13:33 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/0/image66066.jpg does not exist
+09-01 13:33 root         INFO     testing flickr/0/image66027.jpg
+09-01 13:33 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/0/image66027.jpg does not exist
+09-01 13:33 root         INFO     testing flickr/0/image65990.jpg
+09-01 13:33 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/0/image65990.jpg does not exist
+09-01 13:33 root         INFO     testing flickr/0/image65963.jpg
+09-01 13:33 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/0/image65963.jpg does not exist
+09-01 13:33 root         INFO     testing flickr/0/image65912.jpg
+09-01 13:33 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/0/image65912.jpg does not exist
+09-01 13:33 root         INFO     testing flickr/0/image65845.jpg
+09-01 13:33 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/0/image65845.jpg does not exist
+09-01 13:33 root         INFO     testing flickr/2/image65818.jpg
+09-01 13:33 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/2/image65818.jpg does not exist
+09-01 13:33 root         INFO     testing flickr/2/image65804.jpg
+09-01 13:33 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/2/image65804.jpg does not exist
+09-01 13:33 root         INFO     testing flickr/2/image65793.jpg
+09-01 13:33 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/2/image65793.jpg does not exist
+09-01 13:33 root         INFO     testing flickr/0/image65778.jpg
+09-01 13:33 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/0/image65778.jpg does not exist
+09-01 13:33 root         INFO     testing flickr/0/image65768.jpg
+09-01 13:33 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/0/image65768.jpg does not exist
+09-01 13:33 root         INFO     testing flickr/0/image65745.jpg
+09-01 13:33 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/0/image65745.jpg does not exist
+09-01 13:33 root         INFO     testing flickr/0/image65731.jpg
+09-01 13:33 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/0/image65731.jpg does not exist
+09-01 13:33 root         INFO     testing flickr/0/image65709.jpg
+09-01 13:33 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/0/image65709.jpg does not exist
+09-01 13:33 root         INFO     testing flickr/0/image65634.jpg
+09-01 13:33 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/0/image65634.jpg does not exist
+09-01 13:33 root         INFO     testing flickr/0/image65613.jpg
+09-01 13:33 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/0/image65613.jpg does not exist
+09-01 13:33 root         INFO     testing flickr/0/image35038.jpg
+09-01 13:33 root         INFO     /home/mjd/FaceDetection_CNN/aflw/data/flickr/0/image35038.jpg does not exist
+09-01 13:33 root         INFO     All process done.
+
+09-01 13:33 root         INFO     All detected faces number: 3634
+
+09-01 13:33 root         INFO     Correct number: 687
+
